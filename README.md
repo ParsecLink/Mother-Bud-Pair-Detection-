@@ -4,7 +4,7 @@
 
 YeastPair is a work-in-progress microscopy analysis project for detecting biological units in budding yeast images. The current pipeline combines GFP nucleus signals and mCherry bud-neck signals to assign one of three classes (`single_cell`, `early_bud_pair`, or `mother_bud_pair`), then uses prompted MobileSAM masks to size the final bounding boxes.
 
-The repository contains the current v6 research code, portable manifests, compact pseudo-label output, and validation summaries. Historical rule-development code and sample outputs remain available in Git history. The current tree does not contain the source microscopy TIFFs, generated image collections, model weights, review applications, or a trained detector.
+The repository contains the current v6 research code, portable manifests, compact pseudo-label output, validation summaries, preliminary Group 4/5 audit results, and two browser-based annotation pages. Historical rule-development code and sample outputs remain available in Git history. The current tree does not contain the source microscopy TIFFs, bulk generated image collections, model weights, or a trained detector.
 
 ## Current Status
 
@@ -22,6 +22,8 @@ No final ML model has been trained. Manual audit exports have been returned for 
 | `v6_ml_detection/reports/` | Current validation and rule-geometry summaries |
 | `v6_ml_detection/references/` | Portable reference manifests; generated reference PNGs are local-only |
 | `v6_ml_detection/sam_masks/README.md` | Expected mask naming and format |
+| `results/manual_audits/` | Compact preliminary Group 4/5 manual-label exports and rule comparisons |
+| `docs/annotate/` | Self-contained Group 4/5 annotation pages published with GitHub Pages |
 | `docs/PROJECT_STATUS.md` | Detailed project status and collaborator handoff |
 | `requirements-current.txt` | Direct packages and versions verified in the current local environment |
 
@@ -37,7 +39,14 @@ The repository includes:
 - `v6_ml_detection/references/source_tif_reference_manifest.csv` with the channel-reference mapping;
 - the current 1,528-row pseudo-label CSV and compact diagnostics/reports.
 
-It excludes raw TIFFs, 311 RGB images, 933 generated reference PNGs, SAM instance masks and overlays, embedded-image HTML review apps, audit zip packages, third-party source trees, model weights, and returned collaborator files.
+It excludes raw TIFFs, bulk generated image/reference collections, SAM instance masks and overlays, audit zip packages, third-party source trees, and model weights. The two approved annotation pages under `docs/annotate/` are exceptions: each is a self-contained HTML file with its assigned images embedded for browser-based manual labeling.
+
+## Manual Annotation Pages
+
+- [Group 4 annotation](https://parseclink.github.io/Mother-Bud-Pair-Detection-/annotate/group4/)
+- [Group 5 annotation](https://parseclink.github.io/Mother-Bud-Pair-Detection-/annotate/group5/)
+
+Progress is saved only in the reviewer's browser via `localStorage`. Reviewers must use the page's CSV export buttons and return the downloaded files; GitHub Pages does not write annotations back to the repository.
 
 ## Methods and Workflow
 
@@ -156,4 +165,4 @@ Not yet available:
 
 ## Collaboration Notes
 
-Start with [docs/PROJECT_STATUS.md](docs/PROJECT_STATUS.md). Keep raw TIFFs, weights, generated images, masks, HTML review bundles, and returned collaborator exports outside Git. When returning an audit batch, provide both `labels_audit_export.csv` and `labels_reviewed_only_export.csv`; do not treat a batch as complete until the checker reports it usable.
+Start with [docs/PROJECT_STATUS.md](docs/PROJECT_STATUS.md). Keep raw TIFFs, weights, bulk generated images, masks, HTML review bundles, and uncurated return packages outside Git. Only approved annotation pages and curated compact audit CSVs should be committed. When returning an audit batch, provide both `labels_audit_export.csv` and `labels_reviewed_only_export.csv`; do not treat a batch as complete until the checker reports it usable.

@@ -44,7 +44,7 @@ v6_ml_detection/pseudo_labels/*
 !v6_ml_detection/pseudo_labels/labels_pseudo_mobile_sam_from_source_tifs_mask_aware.csv
 !v6_ml_detection/pseudo_labels/mobile_sam_from_source_tifs_mask_aware_diagnostics.csv
 
-# Keep only verified compact reports; returned collaborator exports stay local
+# Keep canonical report folders compact; curated audit exports live under results/manual_audits
 v6_ml_detection/reports/*
 !v6_ml_detection/reports/mobile_sam_from_source_tifs_mask_aware_validation_summary.json
 !v6_ml_detection/reports/rule_geometry_stats.json
