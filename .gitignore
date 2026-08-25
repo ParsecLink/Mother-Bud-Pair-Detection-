@@ -1,0 +1,61 @@
+# Python environments and caches
+__pycache__/
+*.py[cod]
+.venv*/
+venv/
+.pytest_cache/
+.mypy_cache/
+
+# Local configuration and credentials
+.env
+.env.*
+*.pem
+*.key
+
+# Editors and operating-system metadata
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Third-party source trees and model weights
+external/
+models/
+*.pt
+*.pth
+*.ckpt
+
+# Local data and reproducible image/mask artifacts
+data/
+result_pic/from_source_tifs/
+v6_ml_detection/benchmarks/
+v6_ml_detection/datasets/
+v6_ml_detection/overlays/
+v6_ml_detection/predictions/
+v6_ml_detection/review/
+v6_ml_detection/runs/
+v6_ml_detection/sam_masks/*
+!v6_ml_detection/sam_masks/README.md
+v6_ml_detection/references/tif_frames/
+
+# Keep only the current compact pseudo-label evidence in Git
+v6_ml_detection/pseudo_labels/*
+!v6_ml_detection/pseudo_labels/README.md
+!v6_ml_detection/pseudo_labels/labels_pseudo_mobile_sam_from_source_tifs_mask_aware.csv
+!v6_ml_detection/pseudo_labels/mobile_sam_from_source_tifs_mask_aware_diagnostics.csv
+
+# Keep only verified compact reports; returned collaborator exports stay local
+v6_ml_detection/reports/*
+!v6_ml_detection/reports/mobile_sam_from_source_tifs_mask_aware_validation_summary.json
+!v6_ml_detection/reports/rule_geometry_stats.json
+!v6_ml_detection/reports/rule_geometry_image_counts.csv
+!v6_ml_detection/reports/rule_geometry_mother_bud_pairs.csv
+v6_ml_detection/annotations/labels_training_reviewed.csv
+
+# Local convenience bundle duplicates canonical files and embeds local launch paths
+_CURRENT/
+
+# Temporary outputs
+*.log
+*.tmp
+*.bak
