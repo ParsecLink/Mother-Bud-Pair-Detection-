@@ -1,22 +1,10 @@
 # v6 ML Detection Pipeline
 
-Current run entry point:
+Current project status and handoff: [../docs/PROJECT_STATUS.md](../docs/PROJECT_STATUS.md)
 
-```text
-..\_CURRENT\README.md
-```
+Current canonical pseudo-labels: [pseudo_labels/labels_pseudo_mobile_sam_from_source_tifs_mask_aware.csv](pseudo_labels/labels_pseudo_mobile_sam_from_source_tifs_mask_aware.csv)
 
-Current labels:
-
-```text
-pseudo_labels\labels_pseudo_mobile_sam_from_source_tifs_mask_aware.csv
-```
-
-Current audit editor:
-
-```text
-review\audit_label_editor\index.html
-```
+`_CURRENT/` and `v6_ml_detection/review/` are local/generated convenience directories excluded from Git. Review apps and related outputs can be regenerated with the repository scripts.
 
 The current run uses all source TIF folders, prompted MobileSAM masks, and final boxes from mask boundary / mask union. YeastSAM is cloned under `external\YeastSAM` for benchmarking, but it has not replaced MobileSAM yet.
 

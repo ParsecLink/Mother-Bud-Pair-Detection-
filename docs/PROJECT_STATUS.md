@@ -27,7 +27,7 @@ Questions still requiring the project owner's or the PI's decision are listed at
 | Prompted MobileSAM masks | Completed for the current local run | `scripts/52_run_prompted_mobile_sam_masks.py` | Diagnostics report 1,527 mask-derived boxes and one fallback | Masks and weight are local-only; visually audit boundary failures |
 | Label validation | Completed | `scripts/48_validate_v6_labels.py` | 1,528 valid rows, zero reported errors | Validation checks structure/coordinates, not biological correctness |
 | Geometry analysis | Completed descriptively | `scripts/57_report_v6_rule_geometry_stats.py` | `v6_ml_detection/reports/rule_geometry_stats.json` | Select thresholds only after ground-truth comparison |
-| Manual review batches | Partially returned | `scripts/59_create_v6_training_audit_batches.py`, `scripts/63_check_returned_group_results.py` | Aggregate summaries for Groups 2, 4, and 5 | Reconcile incomplete/invalid returns; Groups 1 and 3 are not present |
+| Manual review batches | Partially returned | `scripts/59_create_v6_training_audit_batches.py`, `scripts/63_check_returned_group_results.py` | Compact audit artifacts for Groups 2, 4, and 5 under `results/manual_audits/` | Correct incomplete/invalid returns; Groups 1 and 3 are not present |
 | Reviewed-label merge | Script ready; accepted output not available | `scripts/60_merge_v6_training_audit_exports.py` | No accepted `labels_training_reviewed.csv` | Complete and approve reviewer returns |
 | Rule accuracy evaluation | Script ready; final evaluation not completed | `scripts/56_score_v6_audit_accuracy.py`, `scripts/61_score_v6_rules_against_ground_truth.py` | Existing group comparisons are preliminary and marked unusable | Run after ground truth is accepted |
 | YOLO dataset export | Script ready | `scripts/41_export_v6_yolo_dataset.py` | No reviewed training dataset in repository | Export only accepted reviewed labels |
@@ -87,7 +87,7 @@ All are pseudo-labels with `review_status=needs_review`. These counts are not ac
 
 Structural validation completed successfully: all 1,528 current rows reference manifest images, use allowed classes, and pass the implemented box checks. The rule-geometry report is descriptive and explicitly states that its candidate thresholds are not ground-truth optimized.
 
-Returned manual comparisons exist for Groups 2, 4, and 5. The portable aggregate report marks every row `usable=False`, so its precision/recall values must not be cited as final performance. Group 4 is missing `alphafactor_arrest_frame_026`; Group 5 is missing `training_2_frame_036`. Group 2 covers all 63 assigned images but is still marked unusable; the compact aggregate does not preserve the invalid-row detail needed to resolve why.
+Returned manual comparisons exist for Groups 2, 4, and 5, with compact artifacts included under `results/manual_audits/`. Every group remains `usable=False`, so its precision/recall values must not be cited as final performance. Group 2 covers all 63 assigned images but contains two invalid manual-label boxes with `y1=-0.94`. Group 4 is missing `alphafactor_arrest_frame_026`; Group 5 is missing `training_2_frame_036`.
 
 ## 8. Verified Results and Producing Files
 
@@ -116,11 +116,9 @@ No notebooks were found in the main project tree. Notebooks under `external/Mobi
 
 ## 10. Known Bugs and Technical Problems
 
-- Legacy `scripts/01` through `scripts/32` import `my_sam_pipeline`, while the tracked directory is named `sam_pipeline`; later legacy scripts also reference modules absent from the tracked tree. The legacy path is not currently reproducible.
 - The current pipeline has no automated unit/integration test suite. CLI help, Python compilation, and data validators are the available checks.
 - `scripts/43_train_v6_yolo.py` and `scripts/47_predict_v6_yolo.py` require optional `ultralytics`, which was not present in the verified environment.
 - Full current-run reproduction depends on excluded source data, third-party code, and model weights.
-- Local Git contains an invalid Codex checkpoint ref/object relationship that caused normal `git fetch` maintenance to report an error. Direct `git ls-remote` confirmed local `HEAD` and remote `main` were both `31c34c823647179168a9c7fd3f1b7c83617ef1af` at audit time.
 
 ## 11. Important Methodological Decisions
 
@@ -136,8 +134,8 @@ No notebooks were found in the main project tree. Notebooks under `external/Mobi
 
 ## 12. Approaches Tried but Not Retained as Current
 
-- Early `rules_v2`, `rules_v2_1`, and `rules_v2_3` pipelines explored nucleus, bud-neck, and transmitted-light geometry. They remain historical context.
-- v5 rolling-ball and all-object matching scripts were later trials, but their tracked dependency chain is incomplete.
+- Early `rules_v2`, `rules_v2_1`, and `rules_v2_3` pipelines explored nucleus, bud-neck, and transmitted-light geometry; they are not part of the current tree.
+- v5 rolling-ball and all-object matching scripts were later trials; they are not part of the current tree.
 - RGB-only/dot-sized pseudo-label files are preserved locally as older experiments; they are not the current canonical labels.
 - The current method replaced dot-only box sizing with MobileSAM mask boundary/union sizing. One current object still used the dot fallback.
 - YeastSAM is not a failed approach: its repository and weights exist locally, but no benchmark result was found.
@@ -150,7 +148,7 @@ The existing 311-image/1,528-label run should be treated as preserved evidence. 
 
 ## 14. Immediate Next Steps
 
-1. Recover the detailed checker errors for Group 2 and the missing images for Groups 4 and 5.
+1. Correct or re-review the two invalid Group 2 boxes, and resolve the missing Group 4 and Group 5 images.
 2. Obtain or complete Groups 1 and 3 if a five-group audit is still the intended protocol.
 3. Merge only accepted exports and review the merged class/box distribution.
 4. Run `scripts/61_score_v6_rules_against_ground_truth.py` and inspect errors by class and condition.
