@@ -1,4 +1,4 @@
-# Ajit's Project: YeastPair
+# Project: YeastPair
 
 ## Overview
 
