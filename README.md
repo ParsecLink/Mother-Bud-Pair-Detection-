@@ -4,7 +4,7 @@
 
 YeastPair is a work-in-progress microscopy analysis project for detecting biological units in budding yeast images. The current pipeline combines GFP nucleus signals and mCherry bud-neck signals to assign one of three classes (`single_cell`, `early_bud_pair`, or `mother_bud_pair`), then uses prompted MobileSAM masks to size the final bounding boxes.
 
-The repository contains the current v6 research code, portable manifests, compact pseudo-label output, validation summaries, preliminary Group 4/5 audit results, and two browser-based annotation pages. Historical rule-development code and sample outputs remain available in Git history. The current tree does not contain the source microscopy TIFFs, bulk generated image collections, model weights, or a trained detector.
+The repository contains the current v6 research code, portable manifests, compact pseudo-label output, validation summaries, preliminary Group 2/4/5 audit results, and three browser-based annotation pages. Historical rule-development code and sample outputs remain available in Git history. The current tree does not contain the source microscopy TIFFs, bulk generated image collections, model weights, or a trained detector.
 
 ## Current Status
 
@@ -22,8 +22,8 @@ No final ML model has been trained. Manual audit exports have been returned for 
 | `v6_ml_detection/reports/` | Current validation and rule-geometry summaries |
 | `v6_ml_detection/references/` | Portable reference manifests; generated reference PNGs are local-only |
 | `v6_ml_detection/sam_masks/README.md` | Expected mask naming and format |
-| `results/manual_audits/` | Compact preliminary Group 4/5 manual-label exports and rule comparisons |
-| `docs/annotate/` | Self-contained Group 4/5 annotation pages published with GitHub Pages |
+| `results/manual_audits/` | Compact preliminary Group 2/4/5 manual-label exports and rule comparisons |
+| `docs/annotate/` | Self-contained Group 2/4/5 annotation pages published with GitHub Pages |
 | `docs/PROJECT_STATUS.md` | Detailed project status and collaborator handoff |
 | `requirements-current.txt` | Direct packages and versions verified in the current local environment |
 
@@ -39,10 +39,11 @@ The repository includes:
 - `v6_ml_detection/references/source_tif_reference_manifest.csv` with the channel-reference mapping;
 - the current 1,528-row pseudo-label CSV and compact diagnostics/reports.
 
-It excludes raw TIFFs, bulk generated image/reference collections, SAM instance masks and overlays, audit zip packages, third-party source trees, and model weights. The two approved annotation pages under `docs/annotate/` are exceptions: each is a self-contained HTML file with its assigned images embedded for browser-based manual labeling.
+It excludes raw TIFFs, bulk generated image/reference collections, SAM instance masks and overlays, audit zip packages, third-party source trees, and model weights. The three approved annotation pages under `docs/annotate/` are exceptions: each is a self-contained HTML file with its assigned images embedded for browser-based manual labeling.
 
 ## Manual Annotation Pages
 
+- [Group 2 annotation](https://parseclink.github.io/Mother-Bud-Pair-Detection-/annotate/group2/)
 - [Group 4 annotation](https://parseclink.github.io/Mother-Bud-Pair-Detection-/annotate/group4/)
 - [Group 5 annotation](https://parseclink.github.io/Mother-Bud-Pair-Detection-/annotate/group5/)
 

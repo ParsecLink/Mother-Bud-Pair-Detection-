@@ -1,0 +1,526 @@
+image_id,comparison_type,rule_id,manual_id,rule_class,manual_class,iou,rule_box,manual_box,rule_area_px2,manual_area_px2,area_ratio_rule_over_manual,notes
+45min_after_washout_frame_003,same_class_box_match,rule_6,manual_5,early_bud_pair,early_bud_pair,0.6804,"73.00,72.00,135.00,136.00","77.60,73.40,122.60,133.40",3968.00,2700.00,1.4696,
+45min_after_washout_frame_003,same_class_box_match,rule_4,manual_6,early_bud_pair,early_bud_pair,0.6578,"140.00,53.00,186.00,117.00","144.60,57.40,187.60,105.40",2944.00,2064.00,1.4264,
+45min_after_washout_frame_003,rule_only_or_bad_box,rule_1,,mother_bud_pair,,,"153.00,0.00,240.00,34.00",,2958.00,,,No manual box matched this rule box at IoU threshold.
+45min_after_washout_frame_003,rule_only_or_bad_box,rule_2,,mother_bud_pair,,,"91.00,93.00,176.00,152.00",,5015.00,,,No manual box matched this rule box at IoU threshold.
+45min_after_washout_frame_003,rule_only_or_bad_box,rule_3,,mother_bud_pair,,,"82.00,157.00,143.00,209.00",,3172.00,,,No manual box matched this rule box at IoU threshold.
+45min_after_washout_frame_003,rule_only_or_bad_box,rule_5,,early_bud_pair,,,"119.00,19.00,166.00,73.00",,2538.00,,,No manual box matched this rule box at IoU threshold.
+45min_after_washout_frame_003,rule_only_or_bad_box,rule_7,,single_cell,,,"237.00,18.00,255.00,49.00",,558.00,,,No manual box matched this rule box at IoU threshold.
+45min_after_washout_frame_003,manual_only_missed_by_rule,,manual_2,,single_cell,,,"10.60,207.40,57.60,251.40",,2068.00,,No rule box matched this manual box at IoU threshold.
+45min_after_washout_frame_003,manual_only_missed_by_rule,,manual_3,,single_cell,,,"92.60,110.40,120.60,143.40",,924.00,,No rule box matched this manual box at IoU threshold.
+45min_after_washout_frame_003,manual_only_missed_by_rule,,manual_4,,single_cell,,,"132.60,130.40,166.60,165.40",,1190.00,,No rule box matched this manual box at IoU threshold.
+45min_after_washout_frame_003,manual_only_missed_by_rule,,manual_7,,early_bud_pair,,,"81.60,170.40,118.60,217.40",,1739.00,,No rule box matched this manual box at IoU threshold.
+45min_after_washout_frame_003,manual_only_missed_by_rule,,manual_8,,early_bud_pair,,,"104.60,153.40,135.60,206.40",,1643.00,,No rule box matched this manual box at IoU threshold.
+45min_after_washout_frame_003,manual_only_missed_by_rule,,manual_9,,early_bud_pair,,,"125.60,156.40,195.60,199.40",,3010.00,,No rule box matched this manual box at IoU threshold.
+45min_after_washout_frame_003,manual_only_missed_by_rule,,manual_10,,single_cell,,,"111.60,38.40,151.60,69.40",,1240.00,,No rule box matched this manual box at IoU threshold.
+45min_after_washout_frame_003,manual_only_missed_by_rule,,manual_11,,early_bud_pair,,,"132.60,19.40,168.60,48.40",,1044.00,,No rule box matched this manual box at IoU threshold.
+45min_after_washout_frame_006,same_class_box_match,rule_14,manual_15,early_bud_pair,early_bud_pair,0.6760,"119.00,46.00,169.00,91.00","123.60,50.40,162.60,89.40",2250.00,1521.00,1.4793,
+45min_after_washout_frame_006,class_mismatch_box_match,rule_12,manual_14,mother_bud_pair,early_bud_pair,0.6076,"106.00,92.00,183.00,166.00","105.60,81.40,159.60,163.40",5698.00,4428.00,1.2868,
+45min_after_washout_frame_006,rule_only_or_bad_box,rule_11,,mother_bud_pair,,,"169.00,121.00,255.00,180.00",,5074.00,,,No manual box matched this rule box at IoU threshold.
+45min_after_washout_frame_006,rule_only_or_bad_box,rule_13,,mother_bud_pair,,,"66.00,42.00,124.00,113.00",,4118.00,,,No manual box matched this rule box at IoU threshold.
+45min_after_washout_frame_006,rule_only_or_bad_box,rule_15,,single_cell,,,"211.00,89.00,252.00,138.00",,2009.00,,,No manual box matched this rule box at IoU threshold.
+45min_after_washout_frame_006,manual_only_missed_by_rule,,manual_12,,early_bud_pair,,,"62.60,40.40,101.60,77.40",,1443.00,,No rule box matched this manual box at IoU threshold.
+45min_after_washout_frame_006,manual_only_missed_by_rule,,manual_13,,early_bud_pair,,,"69.60,67.40,118.60,128.40",,2989.00,,No rule box matched this manual box at IoU threshold.
+45min_after_washout_frame_006,manual_only_missed_by_rule,,manual_16,,single_cell,,,"167.60,132.40,203.60,180.40",,1728.00,,No rule box matched this manual box at IoU threshold.
+45min_after_washout_frame_006,manual_only_missed_by_rule,,manual_17,,single_cell,,,"146.60,109.40,181.60,156.40",,1645.00,,No rule box matched this manual box at IoU threshold.
+45min_after_washout_frame_006,manual_only_missed_by_rule,,manual_18,,early_bud_pair,,,"197.60,93.40,254.60,165.40",,4104.00,,No rule box matched this manual box at IoU threshold.
+45min_after_washout_frame_006,manual_only_missed_by_rule,,manual_19,,single_cell,,,"94.60,39.40,131.60,74.40",,1295.00,,No rule box matched this manual box at IoU threshold.
+45min_after_washout_frame_010,same_class_box_match,rule_19,manual_20,early_bud_pair,early_bud_pair,0.7914,"157.00,46.00,219.00,91.00","157.60,36.40,217.60,90.40",2790.00,3240.00,0.8611,
+45min_after_washout_frame_010,same_class_box_match,rule_18,manual_22,early_bud_pair,early_bud_pair,0.7503,"118.00,106.00,157.00,169.00","113.60,104.40,152.60,166.40",2457.00,2418.00,1.0161,
+45min_after_washout_frame_010,class_mismatch_box_match,rule_16,manual_23,mother_bud_pair,early_bud_pair,0.6905,"141.00,132.00,200.00,195.00","140.60,142.40,191.60,193.40",3717.00,2601.00,1.4291,
+45min_after_washout_frame_010,same_class_box_match,rule_17,manual_21,early_bud_pair,early_bud_pair,0.6844,"57.00,13.00,104.00,66.00","51.60,0.40,104.60,63.40",2491.00,3339.00,0.7460,
+45min_after_washout_frame_010,manual_only_missed_by_rule,,manual_24,,single_cell,,,"146.60,112.40,176.60,146.40",,1020.00,,No rule box matched this manual box at IoU threshold.
+45min_after_washout_frame_010,manual_only_missed_by_rule,,manual_25,,single_cell,,,"164.60,122.40,199.60,161.40",,1365.00,,No rule box matched this manual box at IoU threshold.
+45min_after_washout_frame_004,same_class_box_match,rule_9,manual_28,early_bud_pair,early_bud_pair,0.8732,"67.00,84.00,121.00,145.00","65.60,80.40,118.60,144.40",3294.00,3392.00,0.9711,
+45min_after_washout_frame_004,same_class_box_match,rule_10,manual_30,early_bud_pair,early_bud_pair,0.7526,"151.00,68.00,221.00,115.00","158.60,63.40,220.60,111.40",3290.00,2976.00,1.1055,
+45min_after_washout_frame_004,rule_only_or_bad_box,rule_8,,mother_bud_pair,,,"119.00,86.00,187.00,146.00",,4080.00,,,No manual box matched this rule box at IoU threshold.
+45min_after_washout_frame_004,manual_only_missed_by_rule,,manual_26,,single_cell,,,"140.60,51.40,185.60,85.40",,1530.00,,No rule box matched this manual box at IoU threshold.
+45min_after_washout_frame_004,manual_only_missed_by_rule,,manual_27,,single_cell,,,"144.60,114.40,187.60,146.40",,1376.00,,No rule box matched this manual box at IoU threshold.
+45min_after_washout_frame_004,manual_only_missed_by_rule,,manual_29,,early_bud_pair,,,"116.60,88.40,155.60,156.40",,2652.00,,No rule box matched this manual box at IoU threshold.
+60min_after_washout_frame_014,same_class_box_match,rule_28,manual_32,mother_bud_pair,mother_bud_pair,0.8289,"93.00,113.00,169.00,160.00","94.60,114.40,166.60,165.40",3572.00,3672.00,0.9728,
+60min_after_washout_frame_014,same_class_box_match,rule_30,manual_36,mother_bud_pair,mother_bud_pair,0.7867,"154.00,56.00,192.00,129.00","156.60,52.40,192.60,121.40",2774.00,2484.00,1.1167,
+60min_after_washout_frame_014,same_class_box_match,rule_29,manual_33,mother_bud_pair,mother_bud_pair,0.6476,"103.00,57.00,163.00,129.00","96.60,54.40,158.60,113.40",4320.00,3658.00,1.1810,
+60min_after_washout_frame_014,same_class_box_match,rule_27,manual_35,mother_bud_pair,mother_bud_pair,0.6064,"12.00,79.00,82.00,117.00","14.60,75.40,71.60,129.40",2660.00,3078.00,0.8642,
+60min_after_washout_frame_014,rule_only_or_bad_box,rule_26,,mother_bud_pair,,,"16.00,30.00,84.00,94.00",,4352.00,,,No manual box matched this rule box at IoU threshold.
+60min_after_washout_frame_014,rule_only_or_bad_box,rule_31,,early_bud_pair,,,"75.00,80.00,135.00,135.00",,3300.00,,,No manual box matched this rule box at IoU threshold.
+60min_after_washout_frame_014,rule_only_or_bad_box,rule_32,,early_bud_pair,,,"186.00,216.00,225.00,255.00",,1521.00,,,No manual box matched this rule box at IoU threshold.
+60min_after_washout_frame_014,rule_only_or_bad_box,rule_33,,single_cell,,,"0.00,26.00,32.00,67.00",,1312.00,,,No manual box matched this rule box at IoU threshold.
+60min_after_washout_frame_014,manual_only_missed_by_rule,,manual_31,,mother_bud_pair,,,"1.60,25.40,66.60,68.40",,2795.00,,No rule box matched this manual box at IoU threshold.
+60min_after_washout_frame_014,manual_only_missed_by_rule,,manual_34,,mother_bud_pair,,,"50.60,50.40,106.60,115.40",,3640.00,,No rule box matched this manual box at IoU threshold.
+60min_after_washout_frame_014,manual_only_missed_by_rule,,manual_37,,single_cell,,,"3.60,58.40,37.60,91.40",,1122.00,,No rule box matched this manual box at IoU threshold.
+60min_after_washout_frame_014,manual_only_missed_by_rule,,manual_38,,single_cell,,,"30.60,58.40,57.60,90.40",,864.00,,No rule box matched this manual box at IoU threshold.
+60min_after_washout_frame_014,manual_only_missed_by_rule,,manual_39,,single_cell,,,"58.60,106.40,91.60,140.40",,1122.00,,No rule box matched this manual box at IoU threshold.
+60min_after_washout_frame_014,manual_only_missed_by_rule,,manual_40,,mother_bud_pair,,,"158.60,109.40,211.60,174.40",,3445.00,,No rule box matched this manual box at IoU threshold.
+60min_after_washout_frame_015,same_class_box_match,rule_35,manual_42,mother_bud_pair,mother_bud_pair,0.7972,"85.00,88.00,133.00,155.00","87.60,84.40,128.60,153.40",3216.00,2829.00,1.1368,
+60min_after_washout_frame_015,same_class_box_match,rule_40,manual_47,early_bud_pair,early_bud_pair,0.7571,"71.00,134.00,113.00,181.00","72.60,135.40,108.60,186.40",1974.00,1836.00,1.0752,
+60min_after_washout_frame_015,same_class_box_match,rule_36,manual_41,mother_bud_pair,mother_bud_pair,0.7484,"39.00,101.00,100.00,163.00","36.60,103.40,89.60,161.40",3782.00,3074.00,1.2303,
+60min_after_washout_frame_015,same_class_box_match,rule_39,manual_46,early_bud_pair,early_bud_pair,0.7152,"190.00,52.00,250.00,97.00","190.60,47.40,245.60,90.40",2700.00,2365.00,1.1416,
+60min_after_washout_frame_015,same_class_box_match,rule_34,manual_43,mother_bud_pair,mother_bud_pair,0.6977,"185.00,81.00,251.00,142.00","183.60,77.40,234.60,141.40",4026.00,3264.00,1.2335,
+60min_after_washout_frame_015,rule_only_or_bad_box,rule_37,,mother_bud_pair,,,"207.00,142.00,255.00,187.00",,2160.00,,,No manual box matched this rule box at IoU threshold.
+60min_after_washout_frame_015,rule_only_or_bad_box,rule_38,,mother_bud_pair,,,"40.00,51.00,117.00,102.00",,3927.00,,,No manual box matched this rule box at IoU threshold.
+60min_after_washout_frame_015,manual_only_missed_by_rule,,manual_44,,early_bud_pair,,,"41.60,53.40,80.60,96.40",,1677.00,,No rule box matched this manual box at IoU threshold.
+60min_after_washout_frame_015,manual_only_missed_by_rule,,manual_45,,early_bud_pair,,,"75.60,45.40,124.60,100.40",,2695.00,,No rule box matched this manual box at IoU threshold.
+60min_after_washout_frame_013,class_mismatch_box_match,rule_24,manual_53,early_bud_pair,single_cell,0.8045,"72.00,160.00,107.00,203.00","69.60,164.40,105.60,203.40",1505.00,1404.00,1.0719,
+60min_after_washout_frame_013,same_class_box_match,rule_21,manual_49,mother_bud_pair,mother_bud_pair,0.6024,"30.00,65.00,86.00,130.00","28.60,62.40,98.60,113.40",3640.00,3570.00,1.0196,
+60min_after_washout_frame_013,same_class_box_match,rule_22,manual_48,mother_bud_pair,mother_bud_pair,0.5849,"47.00,79.00,112.00,160.00","26.60,95.40,108.60,157.40",5265.00,5084.00,1.0356,
+60min_after_washout_frame_013,same_class_box_match,rule_20,manual_51,mother_bud_pair,mother_bud_pair,0.5403,"116.00,116.00,177.00,173.00","127.60,110.40,192.60,180.40",3477.00,4550.00,0.7642,
+60min_after_washout_frame_013,rule_only_or_bad_box,rule_23,,mother_bud_pair,,,"94.00,86.00,145.00,154.00",,3468.00,,,No manual box matched this rule box at IoU threshold.
+60min_after_washout_frame_013,rule_only_or_bad_box,rule_25,,single_cell,,,"156.00,105.00,194.00,148.00",,1634.00,,,No manual box matched this rule box at IoU threshold.
+60min_after_washout_frame_013,manual_only_missed_by_rule,,manual_50,,mother_bud_pair,,,"108.60,83.40,132.60,157.40",,1776.00,,No rule box matched this manual box at IoU threshold.
+60min_after_washout_frame_013,manual_only_missed_by_rule,,manual_52,,single_cell,,,"123.60,101.40,157.60,134.40",,1122.00,,No rule box matched this manual box at IoU threshold.
+85min_after_washout_frame_006,rule_only_or_bad_box,rule_41,,early_bud_pair,,,"106.00,115.00,168.00,185.00",,4340.00,,,No manual box matched this rule box at IoU threshold.
+85min_after_washout_frame_006,rule_only_or_bad_box,rule_42,,early_bud_pair,,,"213.00,65.00,255.00,128.00",,2646.00,,,No manual box matched this rule box at IoU threshold.
+85min_after_washout_frame_006,rule_only_or_bad_box,rule_43,,early_bud_pair,,,"146.00,105.00,189.00,149.00",,1892.00,,,No manual box matched this rule box at IoU threshold.
+85min_after_washout_frame_006,rule_only_or_bad_box,rule_44,,single_cell,,,"58.00,56.00,97.00,95.00",,1521.00,,,No manual box matched this rule box at IoU threshold.
+85min_after_washout_frame_006,rule_only_or_bad_box,rule_45,,single_cell,,,"27.00,68.00,67.00,103.00",,1400.00,,,No manual box matched this rule box at IoU threshold.
+85min_after_washout_frame_006,rule_only_or_bad_box,rule_46,,single_cell,,,"77.00,75.00,114.00,112.00",,1369.00,,,No manual box matched this rule box at IoU threshold.
+85min_after_washout_frame_006,rule_only_or_bad_box,rule_47,,single_cell,,,"41.00,98.00,87.00,135.00",,1702.00,,,No manual box matched this rule box at IoU threshold.
+85min_after_washout_frame_006,rule_only_or_bad_box,rule_48,,single_cell,,,"183.00,107.00,233.00,149.00",,2100.00,,,No manual box matched this rule box at IoU threshold.
+85min_after_washout_frame_006,rule_only_or_bad_box,rule_49,,single_cell,,,"74.00,143.00,116.00,180.00",,1554.00,,,No manual box matched this rule box at IoU threshold.
+85min_after_washout_frame_006,manual_only_missed_by_rule,,manual_54,,mother_bud_pair,,,"26.60,53.40,92.60,105.40",,3432.00,,No rule box matched this manual box at IoU threshold.
+85min_after_washout_frame_006,manual_only_missed_by_rule,,manual_55,,mother_bud_pair,,,"44.60,70.40,117.60,133.40",,4599.00,,No rule box matched this manual box at IoU threshold.
+85min_after_washout_frame_006,manual_only_missed_by_rule,,manual_56,,mother_bud_pair,,,"37.60,163.40,91.60,234.40",,3834.00,,No rule box matched this manual box at IoU threshold.
+85min_after_washout_frame_006,manual_only_missed_by_rule,,manual_57,,mother_bud_pair,,,"3.60,128.40,85.60,185.40",,4674.00,,No rule box matched this manual box at IoU threshold.
+85min_after_washout_frame_006,manual_only_missed_by_rule,,manual_58,,mother_bud_pair,,,"183.60,92.40,253.60,152.40",,4200.00,,No rule box matched this manual box at IoU threshold.
+85min_after_washout_frame_006,manual_only_missed_by_rule,,manual_59,,mother_bud_pair,,,"154.60,161.40,212.60,233.40",,4176.00,,No rule box matched this manual box at IoU threshold.
+85min_after_washout_frame_006,manual_only_missed_by_rule,,manual_60,,mother_bud_pair,,,"107.60,145.40,174.60,181.40",,2412.00,,No rule box matched this manual box at IoU threshold.
+85min_after_washout_frame_006,manual_only_missed_by_rule,,manual_61,,single_cell,,,"139.60,40.40,182.60,71.40",,1333.00,,No rule box matched this manual box at IoU threshold.
+85min_after_washout_frame_006,manual_only_missed_by_rule,,manual_62,,single_cell,,,"126.60,82.40,154.60,117.40",,980.00,,No rule box matched this manual box at IoU threshold.
+85min_after_washout_frame_006,manual_only_missed_by_rule,,manual_63,,single_cell,,,"111.60,113.40,146.60,147.40",,1190.00,,No rule box matched this manual box at IoU threshold.
+85min_after_washout_frame_006,manual_only_missed_by_rule,,manual_64,,early_bud_pair,,,"111.60,53.40,168.60,104.40",,2907.00,,No rule box matched this manual box at IoU threshold.
+85min_after_washout_frame_009,same_class_box_match,rule_57,manual_67,mother_bud_pair,mother_bud_pair,0.8048,"170.00,52.00,248.00,120.00","170.60,43.40,243.60,117.40",5304.00,5402.00,0.9819,
+85min_after_washout_frame_009,same_class_box_match,rule_56,manual_68,mother_bud_pair,mother_bud_pair,0.7904,"130.00,81.00,198.00,174.00","125.60,86.40,191.60,172.40",6324.00,5676.00,1.1142,
+85min_after_washout_frame_009,same_class_box_match,rule_55,manual_69,mother_bud_pair,mother_bud_pair,0.6611,"119.00,55.00,179.00,140.00","111.60,58.40,174.60,158.40",5100.00,6300.00,0.8095,
+85min_after_washout_frame_009,rule_only_or_bad_box,rule_58,,mother_bud_pair,,,"79.00,43.00,142.00,124.00",,5103.00,,,No manual box matched this rule box at IoU threshold.
+85min_after_washout_frame_009,rule_only_or_bad_box,rule_59,,early_bud_pair,,,"161.00,0.00,246.00,32.00",,2720.00,,,No manual box matched this rule box at IoU threshold.
+85min_after_washout_frame_009,rule_only_or_bad_box,rule_60,,single_cell,,,"69.00,229.00,112.00,255.00",,1118.00,,,No manual box matched this rule box at IoU threshold.
+85min_after_washout_frame_009,rule_only_or_bad_box,rule_61,,single_cell,,,"0.00,227.00,20.00,255.00",,560.00,,,No manual box matched this rule box at IoU threshold.
+85min_after_washout_frame_009,manual_only_missed_by_rule,,manual_65,,single_cell,,,"76.60,40.40,112.60,86.40",,1656.00,,No rule box matched this manual box at IoU threshold.
+85min_after_washout_frame_009,manual_only_missed_by_rule,,manual_66,,single_cell,,,"100.60,64.40,135.60,139.40",,2625.00,,No rule box matched this manual box at IoU threshold.
+85min_after_washout_frame_009,manual_only_missed_by_rule,,manual_70,,mother_bud_pair,,,"45.60,165.40,138.60,244.40",,7347.00,,No rule box matched this manual box at IoU threshold.
+85min_after_washout_frame_019,same_class_box_match,rule_65,manual_74,mother_bud_pair,mother_bud_pair,0.6775,"121.00,61.00,198.00,110.00","121.66,60.06,188.66,125.07",3773.00,4355.67,0.8662,
+85min_after_washout_frame_019,class_mismatch_box_match,rule_67,manual_71,early_bud_pair,mother_bud_pair,0.6486,"0.00,59.00,54.00,103.00","0.60,55.40,62.60,113.40",2376.00,3596.00,0.6607,
+85min_after_washout_frame_019,rule_only_or_bad_box,rule_62,,mother_bud_pair,,,"33.00,38.00,103.00,116.00",,5460.00,,,No manual box matched this rule box at IoU threshold.
+85min_after_washout_frame_019,rule_only_or_bad_box,rule_63,,mother_bud_pair,,,"188.00,54.00,252.00,135.00",,5184.00,,,No manual box matched this rule box at IoU threshold.
+85min_after_washout_frame_019,rule_only_or_bad_box,rule_64,,mother_bud_pair,,,"85.00,67.00,171.00,129.00",,5332.00,,,No manual box matched this rule box at IoU threshold.
+85min_after_washout_frame_019,rule_only_or_bad_box,rule_66,,early_bud_pair,,,"63.00,0.00,128.00,47.00",,3055.00,,,No manual box matched this rule box at IoU threshold.
+85min_after_washout_frame_019,manual_only_missed_by_rule,,manual_72,,mother_bud_pair,,,"70.60,115.40,121.60,232.40",,5967.00,,No rule box matched this manual box at IoU threshold.
+85min_after_washout_frame_019,manual_only_missed_by_rule,,manual_73,,early_bud_pair,,,"58.65,35.06,111.66,72.06",,1961.37,,No rule box matched this manual box at IoU threshold.
+85min_after_washout_frame_019,manual_only_missed_by_rule,,manual_75,,early_bud_pair,,,"187.66,92.07,225.66,130.07",,1444.00,,No rule box matched this manual box at IoU threshold.
+85min_after_washout_frame_019,manual_only_missed_by_rule,,manual_76,,early_bud_pair,,,"198.66,43.06,244.66,93.07",,2300.46,,No rule box matched this manual box at IoU threshold.
+85min_after_washout_frame_019,manual_only_missed_by_rule,,manual_77,,early_bud_pair,,,"84.65,55.06,128.66,124.07",,3037.13,,No rule box matched this manual box at IoU threshold.
+85min_after_washout_frame_019,manual_only_missed_by_rule,,manual_78,,early_bud_pair,,,"123.66,91.07,164.66,129.07",,1558.00,,No rule box matched this manual box at IoU threshold.
+85min_after_washout_frame_023,same_class_box_match,rule_70,manual_79,mother_bud_pair,mother_bud_pair,0.9037,"69.00,53.00,121.00,141.00","69.65,52.06,118.66,144.07",4576.00,4509.41,1.0148,
+85min_after_washout_frame_023,same_class_box_match,rule_69,manual_80,mother_bud_pair,mother_bud_pair,0.6928,"192.00,80.00,253.00,156.00","176.66,76.06,250.66,151.07",4636.00,5550.74,0.8352,
+85min_after_washout_frame_023,class_mismatch_box_match,rule_68,manual_85,mother_bud_pair,early_bud_pair,0.6057,"0.00,42.00,70.00,101.00","20.65,37.06,72.65,106.07",4130.00,3588.52,1.1509,
+85min_after_washout_frame_023,rule_only_or_bad_box,rule_71,,mother_bud_pair,,,"132.00,79.00,190.00,133.00",,3132.00,,,No manual box matched this rule box at IoU threshold.
+85min_after_washout_frame_023,rule_only_or_bad_box,rule_72,,early_bud_pair,,,"38.00,0.00,92.00,26.00",,1404.00,,,No manual box matched this rule box at IoU threshold.
+85min_after_washout_frame_023,manual_only_missed_by_rule,,manual_81,,early_bud_pair,,,"117.66,137.07,179.66,180.07",,2666.00,,No rule box matched this manual box at IoU threshold.
+85min_after_washout_frame_023,manual_only_missed_by_rule,,manual_82,,early_bud_pair,,,"163.66,114.07,221.66,164.07",,2900.00,,No rule box matched this manual box at IoU threshold.
+85min_after_washout_frame_023,manual_only_missed_by_rule,,manual_83,,early_bud_pair,,,"131.66,78.06,163.66,113.07",,1120.32,,No rule box matched this manual box at IoU threshold.
+85min_after_washout_frame_023,manual_only_missed_by_rule,,manual_84,,early_bud_pair,,,"155.66,97.07,198.66,136.07",,1677.00,,No rule box matched this manual box at IoU threshold.
+85min_after_washout_frame_008,same_class_box_match,rule_52,manual_86,mother_bud_pair,mother_bud_pair,0.9163,"43.00,44.00,123.00,105.00","40.65,43.06,119.66,105.07",4880.00,4899.41,0.9960,
+85min_after_washout_frame_008,same_class_box_match,rule_50,manual_91,mother_bud_pair,mother_bud_pair,0.8909,"177.00,91.00,230.00,187.00","179.66,88.07,229.66,190.07",5088.00,5100.00,0.9976,
+85min_after_washout_frame_008,rule_only_or_bad_box,rule_51,,mother_bud_pair,,,"90.00,103.00,183.00,162.00",,5487.00,,,No manual box matched this rule box at IoU threshold.
+85min_after_washout_frame_008,rule_only_or_bad_box,rule_53,,mother_bud_pair,,,"90.00,141.00,177.00,189.00",,4176.00,,,No manual box matched this rule box at IoU threshold.
+85min_after_washout_frame_008,rule_only_or_bad_box,rule_54,,single_cell,,,"58.00,0.00,97.00,18.00",,702.00,,,No manual box matched this rule box at IoU threshold.
+85min_after_washout_frame_008,manual_only_missed_by_rule,,manual_87,,single_cell,,,"85.65,106.07,136.66,149.07",,2193.43,,No rule box matched this manual box at IoU threshold.
+85min_after_washout_frame_008,manual_only_missed_by_rule,,manual_88,,single_cell,,,"80.65,142.07,123.66,180.07",,1634.38,,No rule box matched this manual box at IoU threshold.
+85min_after_washout_frame_008,manual_only_missed_by_rule,,manual_89,,single_cell,,,"123.66,156.07,168.66,194.07",,1710.00,,No rule box matched this manual box at IoU threshold.
+85min_after_washout_frame_008,manual_only_missed_by_rule,,manual_90,,single_cell,,,"123.66,108.07,187.66,174.07",,4224.00,,No rule box matched this manual box at IoU threshold.
+Colorado+htb2-GFP_frame_014,class_mismatch_box_match,rule_95,manual_97,early_bud_pair,mother_bud_pair,0.8028,"139.00,50.00,196.00,108.00","139.66,54.06,189.66,109.07",3306.00,2750.50,1.2020,
+Colorado+htb2-GFP_frame_014,same_class_box_match,rule_93,manual_92,mother_bud_pair,mother_bud_pair,0.7816,"116.00,134.00,160.00,197.00","115.66,136.07,155.66,191.07",2772.00,2200.00,1.2600,
+Colorado+htb2-GFP_frame_014,same_class_box_match,rule_97,manual_100,early_bud_pair,early_bud_pair,0.7429,"187.00,145.00,229.00,196.00","184.66,144.07,224.66,190.07",2142.00,1840.00,1.1641,
+Colorado+htb2-GFP_frame_014,same_class_box_match,rule_99,manual_106,single_cell,single_cell,0.6355,"211.00,85.00,248.00,122.00","215.66,85.07,244.66,115.07",1369.00,870.00,1.5736,
+Colorado+htb2-GFP_frame_014,same_class_box_match,rule_100,manual_105,single_cell,single_cell,0.6153,"106.00,167.00,137.00,200.00","103.66,164.07,133.66,193.07",1023.00,870.00,1.1759,
+Colorado+htb2-GFP_frame_014,class_mismatch_box_match,rule_91,manual_99,mother_bud_pair,early_bud_pair,0.5925,"172.00,90.00,233.00,146.00","187.66,94.07,231.66,140.07",3416.00,2024.00,1.6877,
+Colorado+htb2-GFP_frame_014,rule_only_or_bad_box,rule_90,,mother_bud_pair,,,"86.00,72.00,140.00,142.00",,3780.00,,,No manual box matched this rule box at IoU threshold.
+Colorado+htb2-GFP_frame_014,rule_only_or_bad_box,rule_92,,mother_bud_pair,,,"45.00,125.00,124.00,172.00",,3713.00,,,No manual box matched this rule box at IoU threshold.
+Colorado+htb2-GFP_frame_014,rule_only_or_bad_box,rule_94,,early_bud_pair,,,"0.00,94.00,36.00,133.00",,1404.00,,,No manual box matched this rule box at IoU threshold.
+Colorado+htb2-GFP_frame_014,rule_only_or_bad_box,rule_96,,early_bud_pair,,,"132.00,220.00,192.00,255.00",,2100.00,,,No manual box matched this rule box at IoU threshold.
+Colorado+htb2-GFP_frame_014,rule_only_or_bad_box,rule_98,,single_cell,,,"94.00,0.00,133.00,27.00",,1053.00,,,No manual box matched this rule box at IoU threshold.
+Colorado+htb2-GFP_frame_014,manual_only_missed_by_rule,,manual_93,,mother_bud_pair,,,"159.66,44.06,218.66,75.06",,1829.00,,No rule box matched this manual box at IoU threshold.
+Colorado+htb2-GFP_frame_014,manual_only_missed_by_rule,,manual_94,,mother_bud_pair,,,"91.66,67.06,129.66,124.07",,2166.38,,No rule box matched this manual box at IoU threshold.
+Colorado+htb2-GFP_frame_014,manual_only_missed_by_rule,,manual_95,,single_cell,,,"15.65,116.07,43.65,141.07",,700.00,,No rule box matched this manual box at IoU threshold.
+Colorado+htb2-GFP_frame_014,manual_only_missed_by_rule,,manual_96,,single_cell,,,"114.66,197.07,143.66,230.07",,957.00,,No rule box matched this manual box at IoU threshold.
+Colorado+htb2-GFP_frame_014,manual_only_missed_by_rule,,manual_98,,single_cell,,,"158.66,15.06,190.66,47.06",,1024.00,,No rule box matched this manual box at IoU threshold.
+Colorado+htb2-GFP_frame_014,manual_only_missed_by_rule,,manual_101,,early_bud_pair,,,"123.66,84.07,172.66,137.07",,2597.00,,No rule box matched this manual box at IoU threshold.
+Colorado+htb2-GFP_frame_014,manual_only_missed_by_rule,,manual_102,,early_bud_pair,,,"67.65,59.06,101.66,115.07",,1904.90,,No rule box matched this manual box at IoU threshold.
+Colorado+htb2-GFP_frame_014,manual_only_missed_by_rule,,manual_103,,early_bud_pair,,,"68.65,133.07,120.66,168.07",,1820.35,,No rule box matched this manual box at IoU threshold.
+Colorado+htb2-GFP_frame_014,manual_only_missed_by_rule,,manual_104,,early_bud_pair,,,"24.65,126.07,72.65,166.07",,1920.00,,No rule box matched this manual box at IoU threshold.
+Colorado+htb2-GFP_frame_014,manual_only_missed_by_rule,,manual_107,,single_cell,,,"192.66,63.06,227.66,96.07",,1155.35,,No rule box matched this manual box at IoU threshold.
+Colorado+htb2-GFP_frame_004,same_class_box_match,rule_79,manual_118,early_bud_pair,early_bud_pair,0.8428,"219.00,92.00,255.00,158.00","218.66,92.07,252.66,152.07",2376.00,2040.00,1.1647,
+Colorado+htb2-GFP_frame_004,same_class_box_match,rule_82,manual_119,early_bud_pair,early_bud_pair,0.7744,"71.00,110.00,118.00,160.00","71.65,109.07,115.66,152.07",2350.00,1892.43,1.2418,
+Colorado+htb2-GFP_frame_004,same_class_box_match,rule_73,manual_113,mother_bud_pair,mother_bud_pair,0.6007,"107.00,41.00,150.00,110.00","115.66,42.06,142.66,108.07",2967.00,1782.27,1.6647,
+Colorado+htb2-GFP_frame_004,class_mismatch_box_match,rule_81,manual_115,early_bud_pair,mother_bud_pair,0.5722,"8.00,70.00,55.00,113.00","5.65,63.06,63.65,104.07",2021.00,2378.58,0.8497,
+Colorado+htb2-GFP_frame_004,rule_only_or_bad_box,rule_74,,mother_bud_pair,,,"29.00,70.00,97.00,134.00",,4352.00,,,No manual box matched this rule box at IoU threshold.
+Colorado+htb2-GFP_frame_004,rule_only_or_bad_box,rule_75,,mother_bud_pair,,,"103.00,66.00,177.00,146.00",,5920.00,,,No manual box matched this rule box at IoU threshold.
+Colorado+htb2-GFP_frame_004,rule_only_or_bad_box,rule_76,,mother_bud_pair,,,"45.00,204.00,93.00,255.00",,2448.00,,,No manual box matched this rule box at IoU threshold.
+Colorado+htb2-GFP_frame_004,rule_only_or_bad_box,rule_77,,mother_bud_pair,,,"153.00,107.00,205.00,172.00",,3380.00,,,No manual box matched this rule box at IoU threshold.
+Colorado+htb2-GFP_frame_004,rule_only_or_bad_box,rule_78,,early_bud_pair,,,"203.00,212.00,244.00,255.00",,1763.00,,,No manual box matched this rule box at IoU threshold.
+Colorado+htb2-GFP_frame_004,rule_only_or_bad_box,rule_80,,early_bud_pair,,,"59.00,27.00,122.00,97.00",,4410.00,,,No manual box matched this rule box at IoU threshold.
+Colorado+htb2-GFP_frame_004,manual_only_missed_by_rule,,manual_108,,single_cell,,,"164.66,107.07,200.66,140.07",,1188.00,,No rule box matched this manual box at IoU threshold.
+Colorado+htb2-GFP_frame_004,manual_only_missed_by_rule,,manual_109,,single_cell,,,"153.66,132.07,192.66,172.07",,1560.00,,No rule box matched this manual box at IoU threshold.
+Colorado+htb2-GFP_frame_004,manual_only_missed_by_rule,,manual_110,,single_cell,,,"89.66,99.07,113.66,126.07",,648.00,,No rule box matched this manual box at IoU threshold.
+Colorado+htb2-GFP_frame_004,manual_only_missed_by_rule,,manual_111,,single_cell,,,"68.65,77.06,98.66,105.07",,840.58,,No rule box matched this manual box at IoU threshold.
+Colorado+htb2-GFP_frame_004,manual_only_missed_by_rule,,manual_112,,mother_bud_pair,,,"56.65,18.06,108.66,59.06",,2132.41,,No rule box matched this manual box at IoU threshold.
+Colorado+htb2-GFP_frame_004,manual_only_missed_by_rule,,manual_114,,mother_bud_pair,,,"18.65,97.07,81.65,132.07",,2205.00,,No rule box matched this manual box at IoU threshold.
+Colorado+htb2-GFP_frame_004,manual_only_missed_by_rule,,manual_116,,mother_bud_pair,,,"135.66,90.07,165.66,146.07",,1680.00,,No rule box matched this manual box at IoU threshold.
+Colorado+htb2-GFP_frame_004,manual_only_missed_by_rule,,manual_117,,early_bud_pair,,,"142.66,50.06,170.66,92.07",,1176.28,,No rule box matched this manual box at IoU threshold.
+Colorado+htb2-GFP_frame_004,manual_only_missed_by_rule,,manual_120,,mother_bud_pair,,,"85.65,96.07,141.66,142.07",,2576.46,,No rule box matched this manual box at IoU threshold.
+Colorado+htb2-GFP_frame_017,same_class_box_match,rule_108,manual_127,single_cell,single_cell,0.7208,"204.00,94.00,242.00,130.00","205.66,95.07,239.66,124.07",1368.00,986.00,1.3874,
+Colorado+htb2-GFP_frame_017,same_class_box_match,rule_105,manual_124,early_bud_pair,early_bud_pair,0.6267,"182.00,33.00,236.00,73.00","191.66,31.06,231.66,68.06",2160.00,1480.00,1.4595,
+Colorado+htb2-GFP_frame_017,same_class_box_match,rule_107,manual_129,single_cell,single_cell,0.5633,"97.00,30.00,135.00,71.00","96.66,26.06,127.66,61.06",1558.00,1085.00,1.4359,
+Colorado+htb2-GFP_frame_017,same_class_box_match,rule_103,manual_121,mother_bud_pair,mother_bud_pair,0.5136,"154.00,105.00,210.00,172.00","156.66,127.07,203.66,168.07",3752.00,1927.00,1.9471,
+Colorado+htb2-GFP_frame_017,rule_only_or_bad_box,rule_101,,mother_bud_pair,,,"86.00,99.00,170.00,173.00",,6216.00,,,No manual box matched this rule box at IoU threshold.
+Colorado+htb2-GFP_frame_017,rule_only_or_bad_box,rule_102,,mother_bud_pair,,,"166.00,58.00,223.00,114.00",,3192.00,,,No manual box matched this rule box at IoU threshold.
+Colorado+htb2-GFP_frame_017,rule_only_or_bad_box,rule_104,,mother_bud_pair,,,"0.00,0.00,49.00,50.00",,2450.00,,,No manual box matched this rule box at IoU threshold.
+Colorado+htb2-GFP_frame_017,rule_only_or_bad_box,rule_106,,early_bud_pair,,,"108.00,42.00,156.00,95.00",,2544.00,,,No manual box matched this rule box at IoU threshold.
+Colorado+htb2-GFP_frame_017,manual_only_missed_by_rule,,manual_122,,early_bud_pair,,,"75.65,111.07,117.66,155.07",,1848.44,,No rule box matched this manual box at IoU threshold.
+Colorado+htb2-GFP_frame_017,manual_only_missed_by_rule,,manual_123,,early_bud_pair,,,"132.66,113.07,162.66,168.07",,1650.00,,No rule box matched this manual box at IoU threshold.
+Colorado+htb2-GFP_frame_017,manual_only_missed_by_rule,,manual_125,,early_bud_pair,,,"158.66,45.06,194.66,98.07",,1908.36,,No rule box matched this manual box at IoU threshold.
+Colorado+htb2-GFP_frame_017,manual_only_missed_by_rule,,manual_126,,mother_bud_pair,,,"187.66,55.06,218.66,110.07",,1705.31,,No rule box matched this manual box at IoU threshold.
+Colorado+htb2-GFP_frame_017,manual_only_missed_by_rule,,manual_128,,single_cell,,,"169.66,103.07,208.66,140.07",,1443.00,,No rule box matched this manual box at IoU threshold.
+Colorado+htb2-GFP_frame_017,manual_only_missed_by_rule,,manual_130,,single_cell,,,"113.66,47.06,143.66,83.07",,1080.30,,No rule box matched this manual box at IoU threshold.
+Colorado+htb2-GFP_frame_017,manual_only_missed_by_rule,,manual_131,,single_cell,,,"138.66,39.06,164.66,74.06",,910.00,,No rule box matched this manual box at IoU threshold.
+Colorado+htb2-GFP_frame_017,manual_only_missed_by_rule,,manual_132,,single_cell,,,"125.66,74.06,163.66,104.07",,1140.38,,No rule box matched this manual box at IoU threshold.
+Colorado+htb2-GFP_frame_017,manual_only_missed_by_rule,,manual_133,,single_cell,,,"100.66,83.07,143.66,133.07",,2150.00,,No rule box matched this manual box at IoU threshold.
+Colorado+htb2-GFP_frame_005,same_class_box_match,rule_83,manual_143,mother_bud_pair,mother_bud_pair,0.8618,"171.00,59.00,238.00,110.00","173.66,61.06,237.66,107.07",3417.00,2944.64,1.1604,
+Colorado+htb2-GFP_frame_005,same_class_box_match,rule_86,manual_142,mother_bud_pair,mother_bud_pair,0.7839,"137.00,82.00,192.00,137.00","136.66,86.07,185.66,135.07",3025.00,2401.00,1.2599,
+Colorado+htb2-GFP_frame_005,same_class_box_match,rule_85,manual_141,mother_bud_pair,mother_bud_pair,0.6806,"39.00,88.00,106.00,122.00","52.65,84.07,103.66,121.07",2278.00,1887.37,1.2070,
+Colorado+htb2-GFP_frame_005,same_class_box_match,rule_84,manual_144,mother_bud_pair,mother_bud_pair,0.6742,"173.00,30.00,230.00,75.00","170.66,26.06,226.66,66.06",2565.00,2240.00,1.1451,
+Colorado+htb2-GFP_frame_005,rule_only_or_bad_box,rule_87,,mother_bud_pair,,,"0.00,49.00,63.00,103.00",,3402.00,,,No manual box matched this rule box at IoU threshold.
+Colorado+htb2-GFP_frame_005,rule_only_or_bad_box,rule_88,,early_bud_pair,,,"161.00,207.00,218.00,255.00",,2736.00,,,No manual box matched this rule box at IoU threshold.
+Colorado+htb2-GFP_frame_005,rule_only_or_bad_box,rule_89,,early_bud_pair,,,"219.00,219.00,255.00,255.00",,1296.00,,,No manual box matched this rule box at IoU threshold.
+Colorado+htb2-GFP_frame_005,manual_only_missed_by_rule,,manual_134,,single_cell,,,"43.65,25.06,85.65,67.06",,1764.00,,No rule box matched this manual box at IoU threshold.
+Colorado+htb2-GFP_frame_005,manual_only_missed_by_rule,,manual_135,,single_cell,,,"6.65,53.06,39.65,86.07",,1089.33,,No rule box matched this manual box at IoU threshold.
+Colorado+htb2-GFP_frame_005,manual_only_missed_by_rule,,manual_136,,single_cell,,,"185.66,92.07,215.66,124.07",,960.00,,No rule box matched this manual box at IoU threshold.
+Colorado+htb2-GFP_frame_005,manual_only_missed_by_rule,,manual_137,,single_cell,,,"101.66,134.07,131.66,163.07",,870.00,,No rule box matched this manual box at IoU threshold.
+Colorado+htb2-GFP_frame_005,manual_only_missed_by_rule,,manual_138,,single_cell,,,"133.66,127.07,170.66,167.07",,1480.00,,No rule box matched this manual box at IoU threshold.
+Colorado+htb2-GFP_frame_005,manual_only_missed_by_rule,,manual_139,,single_cell,,,"55.65,112.07,89.66,139.07",,918.27,,No rule box matched this manual box at IoU threshold.
+Colorado+htb2-GFP_frame_005,manual_only_missed_by_rule,,manual_140,,mother_bud_pair,,,"2.65,70.06,57.65,111.07",,2255.55,,No rule box matched this manual box at IoU threshold.
+Colorado+htb2-GFP_frame_005,manual_only_missed_by_rule,,manual_145,,single_cell,,,"159.66,205.07,192.66,237.07",,1056.00,,No rule box matched this manual box at IoU threshold.
+_ess_dense_frame_015,same_class_box_match,rule_131,manual_147,mother_bud_pair,mother_bud_pair,0.7881,"171.00,77.00,223.00,132.00","171.66,80.07,217.66,129.07",2860.00,2254.00,1.2689,
+_ess_dense_frame_015,same_class_box_match,rule_129,manual_149,mother_bud_pair,mother_bud_pair,0.7054,"211.00,202.00,255.00,255.00","215.66,206.07,250.66,253.07",2332.00,1645.00,1.4176,
+_ess_dense_frame_015,same_class_box_match,rule_130,manual_148,mother_bud_pair,mother_bud_pair,0.6557,"4.00,86.00,69.00,147.00","12.65,94.07,62.65,146.07",3965.00,2600.00,1.5250,
+_ess_dense_frame_015,class_mismatch_box_match,rule_132,manual_152,early_bud_pair,single_cell,0.6083,"110.00,85.00,154.00,132.00","117.66,92.07,151.66,129.07",2068.00,1258.00,1.6439,
+_ess_dense_frame_015,class_mismatch_box_match,rule_127,manual_146,mother_bud_pair,early_bud_pair,0.5330,"78.00,52.00,139.00,113.00","77.65,47.06,132.66,91.07",3721.00,2420.99,1.5370,
+_ess_dense_frame_015,rule_only_or_bad_box,rule_128,,mother_bud_pair,,,"72.00,119.00,118.00,176.00",,2622.00,,,No manual box matched this rule box at IoU threshold.
+_ess_dense_frame_015,rule_only_or_bad_box,rule_133,,early_bud_pair,,,"3.00,75.00,55.00,111.00",,1872.00,,,No manual box matched this rule box at IoU threshold.
+_ess_dense_frame_015,manual_only_missed_by_rule,,manual_150,,single_cell,,,"89.66,99.07,118.66,128.07",,841.00,,No rule box matched this manual box at IoU threshold.
+_ess_dense_frame_015,manual_only_missed_by_rule,,manual_151,,single_cell,,,"100.66,75.06,135.66,109.07",,1190.35,,No rule box matched this manual box at IoU threshold.
+_ess_dense_frame_015,manual_only_missed_by_rule,,manual_153,,single_cell,,,"75.65,119.07,114.66,151.07",,1248.32,,No rule box matched this manual box at IoU threshold.
+_ess_dense_frame_015,manual_only_missed_by_rule,,manual_154,,single_cell,,,"83.65,146.07,114.66,179.07",,1023.33,,No rule box matched this manual box at IoU threshold.
+_ess_dense_frame_015,manual_only_missed_by_rule,,manual_155,,single_cell,,,"2.65,81.07,27.65,105.07",,600.00,,No rule box matched this manual box at IoU threshold.
+_ess_dense_frame_015,manual_only_missed_by_rule,,manual_156,,single_cell,,,"18.65,61.06,49.65,99.07",,1178.31,,No rule box matched this manual box at IoU threshold.
+_ess_dense_frame_007,same_class_box_match,rule_124,manual_164,early_bud_pair,early_bud_pair,0.9029,"42.00,75.00,97.00,131.00","41.65,74.06,93.66,132.07",3080.00,3017.10,1.0208,
+_ess_dense_frame_007,class_mismatch_box_match,rule_126,manual_159,early_bud_pair,single_cell,0.7810,"207.00,209.00,247.00,255.00","203.66,213.07,244.66,254.07",1840.00,1681.00,1.0946,
+_ess_dense_frame_007,same_class_box_match,rule_121,manual_160,mother_bud_pair,mother_bud_pair,0.5506,"84.00,28.00,138.00,80.00","73.65,21.06,130.66,71.06",2808.00,2850.50,0.9851,
+_ess_dense_frame_007,class_mismatch_box_match,rule_122,manual_163,mother_bud_pair,single_cell,0.5305,"149.00,55.00,193.00,120.00","154.66,55.06,191.66,96.07",2860.00,1517.37,1.8848,
+_ess_dense_frame_007,rule_only_or_bad_box,rule_120,,mother_bud_pair,,,"103.00,69.00,162.00,126.00",,3363.00,,,No manual box matched this rule box at IoU threshold.
+_ess_dense_frame_007,rule_only_or_bad_box,rule_123,,mother_bud_pair,,,"225.00,172.00,255.00,228.00",,1680.00,,,No manual box matched this rule box at IoU threshold.
+_ess_dense_frame_007,rule_only_or_bad_box,rule_125,,early_bud_pair,,,"138.00,33.00,178.00,82.00",,1960.00,,,No manual box matched this rule box at IoU threshold.
+_ess_dense_frame_007,manual_only_missed_by_rule,,manual_157,,single_cell,,,"158.66,82.07,188.66,118.07",,1080.00,,No rule box matched this manual box at IoU threshold.
+_ess_dense_frame_007,manual_only_missed_by_rule,,manual_158,,single_cell,,,"139.66,30.06,168.66,68.06",,1102.00,,No rule box matched this manual box at IoU threshold.
+_ess_dense_frame_007,manual_only_missed_by_rule,,manual_161,,single_cell,,,"96.66,82.07,132.66,122.07",,1440.00,,No rule box matched this manual box at IoU threshold.
+_ess_dense_frame_007,manual_only_missed_by_rule,,manual_162,,single_cell,,,"124.66,56.06,158.66,96.07",,1360.34,,No rule box matched this manual box at IoU threshold.
+_ess_dense_frame_003,same_class_box_match,rule_116,manual_171,mother_bud_pair,mother_bud_pair,0.6944,"174.00,4.00,218.00,74.00","169.66,9.06,212.66,69.06",3080.00,2580.00,1.1938,
+_ess_dense_frame_003,class_mismatch_box_match,rule_118,manual_168,mother_bud_pair,early_bud_pair,0.5090,"12.00,95.00,65.00,177.00","10.65,98.07,53.65,152.07",4346.00,2322.00,1.8717,
+_ess_dense_frame_003,class_mismatch_box_match,rule_114,manual_166,mother_bud_pair,early_bud_pair,0.5034,"155.00,96.00,220.00,159.00","152.66,97.07,193.66,152.07",4095.00,2255.00,1.8160,
+_ess_dense_frame_003,rule_only_or_bad_box,rule_115,,mother_bud_pair,,,"201.00,21.00,255.00,69.00",,2592.00,,,No manual box matched this rule box at IoU threshold.
+_ess_dense_frame_003,rule_only_or_bad_box,rule_117,,mother_bud_pair,,,"65.00,62.00,120.00,133.00",,3905.00,,,No manual box matched this rule box at IoU threshold.
+_ess_dense_frame_003,rule_only_or_bad_box,rule_119,,mother_bud_pair,,,"197.00,41.00,255.00,87.00",,2668.00,,,No manual box matched this rule box at IoU threshold.
+_ess_dense_frame_003,manual_only_missed_by_rule,,manual_165,,early_bud_pair,,,"66.65,62.06,107.66,108.07",,1886.87,,No rule box matched this manual box at IoU threshold.
+_ess_dense_frame_003,manual_only_missed_by_rule,,manual_167,,early_bud_pair,,,"94.66,116.07,131.66,174.07",,2146.00,,No rule box matched this manual box at IoU threshold.
+_ess_dense_frame_003,manual_only_missed_by_rule,,manual_169,,single_cell,,,"54.65,195.07,97.66,237.07",,1806.42,,No rule box matched this manual box at IoU threshold.
+_ess_dense_frame_003,manual_only_missed_by_rule,,manual_170,,mother_bud_pair,,,"101.66,61.06,158.66,130.07",,3933.57,,No rule box matched this manual box at IoU threshold.
+_ess_dense_frame_003,manual_only_missed_by_rule,,manual_172,,mother_bud_pair,,,"200.66,26.06,234.66,84.07",,1972.34,,No rule box matched this manual box at IoU threshold.
+_ess_dense_frame_003,manual_only_missed_by_rule,,manual_173,,single_cell,,,"14.65,136.07,47.65,181.07",,1485.00,,No rule box matched this manual box at IoU threshold.
+_ess_dense_frame_003,manual_only_missed_by_rule,,manual_174,,single_cell,,,"39.65,123.07,67.65,160.07",,1036.00,,No rule box matched this manual box at IoU threshold.
+_ess_dense_frame_003,manual_only_missed_by_rule,,manual_175,,single_cell,,,"184.66,112.07,217.66,154.07",,1386.00,,No rule box matched this manual box at IoU threshold.
+_ess_dense_frame_001,same_class_box_match,rule_111,manual_180,early_bud_pair,early_bud_pair,0.8124,"56.00,21.00,113.00,75.00","56.65,21.06,106.66,71.06",3078.00,2500.50,1.2310,
+_ess_dense_frame_001,rule_only_or_bad_box,rule_109,,mother_bud_pair,,,"41.00,73.00,110.00,125.00",,3588.00,,,No manual box matched this rule box at IoU threshold.
+_ess_dense_frame_001,rule_only_or_bad_box,rule_110,,mother_bud_pair,,,"184.00,105.00,247.00,185.00",,5040.00,,,No manual box matched this rule box at IoU threshold.
+_ess_dense_frame_001,rule_only_or_bad_box,rule_112,,early_bud_pair,,,"78.00,115.00,132.00,152.00",,1998.00,,,No manual box matched this rule box at IoU threshold.
+_ess_dense_frame_001,rule_only_or_bad_box,rule_113,,early_bud_pair,,,"232.00,150.00,255.00,183.00",,759.00,,,No manual box matched this rule box at IoU threshold.
+_ess_dense_frame_001,manual_only_missed_by_rule,,manual_176,,single_cell,,,"186.66,202.07,227.66,243.07",,1681.00,,No rule box matched this manual box at IoU threshold.
+_ess_dense_frame_001,manual_only_missed_by_rule,,manual_177,,single_cell,,,"39.65,85.07,78.65,127.07",,1638.00,,No rule box matched this manual box at IoU threshold.
+_ess_dense_frame_001,manual_only_missed_by_rule,,manual_178,,single_cell,,,"67.65,72.06,102.66,110.07",,1330.73,,No rule box matched this manual box at IoU threshold.
+_ess_dense_frame_001,manual_only_missed_by_rule,,manual_179,,single_cell,,,"112.66,111.07,146.66,157.07",,1564.00,,No rule box matched this manual box at IoU threshold.
+_ess_dense_frame_001,manual_only_missed_by_rule,,manual_181,,early_bud_pair,,,"177.66,97.07,232.66,153.07",,3080.00,,No rule box matched this manual box at IoU threshold.
+_ess_dense_frame_001,manual_only_missed_by_rule,,manual_182,,early_bud_pair,,,"62.65,112.07,114.66,161.07",,2548.49,,No rule box matched this manual box at IoU threshold.
+alphafactor_arrest_frame_004,same_class_box_match,rule_145,manual_184,single_cell,single_cell,0.7558,"92.00,59.00,129.00,99.00","89.66,59.06,126.66,93.07",1480.00,1258.37,1.1761,
+alphafactor_arrest_frame_004,class_mismatch_box_match,rule_140,manual_183,mother_bud_pair,early_bud_pair,0.6969,"117.00,44.00,167.00,112.00","117.66,57.06,173.66,110.07",3400.00,2968.56,1.1453,
+alphafactor_arrest_frame_004,class_mismatch_box_match,rule_141,manual_187,mother_bud_pair,single_cell,0.5698,"113.00,101.00,161.00,145.00","105.66,99.07,149.66,152.07",2112.00,2332.00,0.9057,
+alphafactor_arrest_frame_004,class_mismatch_box_match,rule_143,manual_186,early_bud_pair,single_cell,0.5570,"86.00,107.00,145.00,156.00","82.65,116.07,131.66,161.07",2891.00,2205.45,1.3108,
+alphafactor_arrest_frame_004,same_class_box_match,rule_144,manual_185,single_cell,single_cell,0.5282,"97.00,37.00,131.00,73.00","89.66,33.06,126.66,65.06",1224.00,1184.00,1.0338,
+alphafactor_arrest_frame_004,rule_only_or_bad_box,rule_142,,early_bud_pair,,,"179.00,0.00,234.00,35.00",,1925.00,,,No manual box matched this rule box at IoU threshold.
+alphafactor_arrest_frame_004,rule_only_or_bad_box,rule_146,,single_cell,,,"0.00,222.00,26.00,255.00",,858.00,,,No manual box matched this rule box at IoU threshold.
+alphafactor_arrest_frame_004,manual_only_missed_by_rule,,manual_188,,single_cell,,,"141.66,108.07,180.66,141.07",,1287.00,,No rule box matched this manual box at IoU threshold.
+alphafactor_arrest_frame_003,same_class_box_match,rule_139,manual_189,single_cell,single_cell,0.7093,"0.00,102.00,36.00,153.00","2.65,101.07,32.65,146.07",1836.00,1350.00,1.3600,
+alphafactor_arrest_frame_003,class_mismatch_box_match,rule_135,manual_191,mother_bud_pair,single_cell,0.5580,"108.00,134.00,161.00,204.00","112.66,158.07,158.66,203.07",3710.00,2070.00,1.7923,
+alphafactor_arrest_frame_003,class_mismatch_box_match,rule_138,manual_197,early_bud_pair,single_cell,0.5226,"94.00,91.00,153.00,139.00","109.66,99.07,149.66,136.07",2832.00,1480.00,1.9135,
+alphafactor_arrest_frame_003,rule_only_or_bad_box,rule_134,,mother_bud_pair,,,"210.00,75.00,255.00,129.00",,2430.00,,,No manual box matched this rule box at IoU threshold.
+alphafactor_arrest_frame_003,rule_only_or_bad_box,rule_136,,mother_bud_pair,,,"225.00,201.00,255.00,251.00",,1500.00,,,No manual box matched this rule box at IoU threshold.
+alphafactor_arrest_frame_003,rule_only_or_bad_box,rule_137,,early_bud_pair,,,"220.00,224.00,255.00,255.00",,1085.00,,,No manual box matched this rule box at IoU threshold.
+alphafactor_arrest_frame_003,manual_only_missed_by_rule,,manual_190,,single_cell,,,"101.66,134.07,144.66,177.07",,1849.00,,No rule box matched this manual box at IoU threshold.
+alphafactor_arrest_frame_003,manual_only_missed_by_rule,,manual_192,,single_cell,,,"100.66,12.06,137.66,51.06",,1443.00,,No rule box matched this manual box at IoU threshold.
+alphafactor_arrest_frame_003,manual_only_missed_by_rule,,manual_193,,single_cell,,,"150.66,43.06,184.66,74.06",,1054.00,,No rule box matched this manual box at IoU threshold.
+alphafactor_arrest_frame_003,manual_only_missed_by_rule,,manual_194,,single_cell,,,"156.66,71.06,199.66,108.07",,1591.43,,No rule box matched this manual box at IoU threshold.
+alphafactor_arrest_frame_003,manual_only_missed_by_rule,,manual_195,,single_cell,,,"213.66,75.06,239.66,107.07",,832.26,,No rule box matched this manual box at IoU threshold.
+alphafactor_arrest_frame_003,manual_only_missed_by_rule,,manual_196,,single_cell,,,"85.65,71.06,133.66,115.07",,2112.92,,No rule box matched this manual box at IoU threshold.
+alphafactor_arrest_frame_003,manual_only_missed_by_rule,,manual_198,,single_cell,,,"114.66,63.06,163.66,101.07",,1862.49,,No rule box matched this manual box at IoU threshold.
+alphafactor_arrest_frame_003,manual_only_missed_by_rule,,manual_199,,single_cell,,,"94.66,34.06,131.66,69.06",,1295.00,,No rule box matched this manual box at IoU threshold.
+alphafactor_arrest_frame_009,class_mismatch_box_match,rule_153,manual_206,early_bud_pair,single_cell,0.6035,"156.00,110.00,200.00,157.00","166.66,116.07,198.66,155.07",2068.00,1248.00,1.6571,
+alphafactor_arrest_frame_009,class_mismatch_box_match,rule_152,manual_202,early_bud_pair,single_cell,0.5329,"55.00,96.00,104.00,140.00","51.65,86.07,89.66,137.07",2156.00,1938.51,1.1122,
+alphafactor_arrest_frame_009,rule_only_or_bad_box,rule_149,,mother_bud_pair,,,"75.00,44.00,151.00,95.00",,3876.00,,,No manual box matched this rule box at IoU threshold.
+alphafactor_arrest_frame_009,rule_only_or_bad_box,rule_150,,mother_bud_pair,,,"157.00,63.00,231.00,120.00",,4218.00,,,No manual box matched this rule box at IoU threshold.
+alphafactor_arrest_frame_009,rule_only_or_bad_box,rule_151,,mother_bud_pair,,,"138.00,44.00,218.00,120.00",,6080.00,,,No manual box matched this rule box at IoU threshold.
+alphafactor_arrest_frame_009,manual_only_missed_by_rule,,manual_200,,single_cell,,,"69.65,42.06,109.66,76.06",,1360.34,,No rule box matched this manual box at IoU threshold.
+alphafactor_arrest_frame_009,manual_only_missed_by_rule,,manual_201,,single_cell,,,"106.66,36.06,145.66,96.07",,2340.39,,No rule box matched this manual box at IoU threshold.
+alphafactor_arrest_frame_009,manual_only_missed_by_rule,,manual_203,,single_cell,,,"66.65,102.07,97.66,133.07",,961.31,,No rule box matched this manual box at IoU threshold.
+alphafactor_arrest_frame_009,manual_only_missed_by_rule,,manual_204,,single_cell,,,"63.65,127.07,122.66,171.07",,2596.44,,No rule box matched this manual box at IoU threshold.
+alphafactor_arrest_frame_009,manual_only_missed_by_rule,,manual_205,,single_cell,,,"96.66,95.07,148.66,142.07",,2444.00,,No rule box matched this manual box at IoU threshold.
+alphafactor_arrest_frame_009,manual_only_missed_by_rule,,manual_207,,single_cell,,,"182.66,45.06,211.66,74.06",,841.00,,No rule box matched this manual box at IoU threshold.
+alphafactor_arrest_frame_009,manual_only_missed_by_rule,,manual_208,,single_cell,,,"192.66,64.06,231.66,105.07",,1599.39,,No rule box matched this manual box at IoU threshold.
+alphafactor_arrest_frame_009,manual_only_missed_by_rule,,manual_209,,single_cell,,,"156.66,78.06,200.66,127.07",,2156.44,,No rule box matched this manual box at IoU threshold.
+alphafactor_arrest_frame_009,manual_only_missed_by_rule,,manual_210,,early_bud_pair,,,"138.66,63.06,176.66,118.07",,2090.38,,No rule box matched this manual box at IoU threshold.
+alphafactor_arrest_frame_017,class_mismatch_box_match,rule_158,manual_217,mother_bud_pair,single_cell,0.5033,"186.00,119.00,247.00,177.00","201.66,108.07,246.66,164.07",3538.00,2520.00,1.4040,
+alphafactor_arrest_frame_017,rule_only_or_bad_box,rule_157,,mother_bud_pair,,,"179.00,0.00,244.00,65.00",,4225.00,,,No manual box matched this rule box at IoU threshold.
+alphafactor_arrest_frame_017,rule_only_or_bad_box,rule_159,,mother_bud_pair,,,"0.00,48.00,53.00,107.00",,3127.00,,,No manual box matched this rule box at IoU threshold.
+alphafactor_arrest_frame_017,rule_only_or_bad_box,rule_160,,early_bud_pair,,,"229.00,0.00,255.00,40.00",,1040.00,,,No manual box matched this rule box at IoU threshold.
+alphafactor_arrest_frame_017,manual_only_missed_by_rule,,manual_211,,single_cell,,,"71.65,100.07,111.66,132.07",,1280.32,,No rule box matched this manual box at IoU threshold.
+alphafactor_arrest_frame_017,manual_only_missed_by_rule,,manual_212,,single_cell,,,"44.65,56.06,92.66,116.07",,2881.08,,No rule box matched this manual box at IoU threshold.
+alphafactor_arrest_frame_017,manual_only_missed_by_rule,,manual_213,,single_cell,,,"131.66,70.06,190.66,111.07",,2419.59,,No rule box matched this manual box at IoU threshold.
+alphafactor_arrest_frame_017,manual_only_missed_by_rule,,manual_214,,single_cell,,,"138.66,97.07,178.66,134.07",,1480.00,,No rule box matched this manual box at IoU threshold.
+alphafactor_arrest_frame_017,manual_only_missed_by_rule,,manual_215,,single_cell,,,"123.66,121.07,172.66,169.07",,2352.00,,No rule box matched this manual box at IoU threshold.
+alphafactor_arrest_frame_017,manual_only_missed_by_rule,,manual_216,,single_cell,,,"186.66,129.07,211.66,172.07",,1075.00,,No rule box matched this manual box at IoU threshold.
+alphafactor_arrest_frame_017,manual_only_missed_by_rule,,manual_218,,single_cell,,,"169.66,3.06,221.66,49.06",,2392.00,,No rule box matched this manual box at IoU threshold.
+alphafactor_arrest_frame_011,class_mismatch_box_match,rule_155,manual_219,early_bud_pair,single_cell,0.7853,"30.00,108.00,73.00,153.00","22.65,108.07,69.65,153.07",1935.00,2115.00,0.9149,
+alphafactor_arrest_frame_011,class_mismatch_box_match,rule_156,manual_220,early_bud_pair,single_cell,0.6152,"149.00,176.00,195.00,209.00","141.66,167.07,194.66,213.07",1518.00,2438.00,0.6226,
+alphafactor_arrest_frame_011,class_mismatch_box_match,rule_154,manual_222,mother_bud_pair,single_cell,0.6037,"101.00,92.00,169.00,142.00","118.66,100.07,167.66,142.07",3400.00,2058.00,1.6521,
+alphafactor_arrest_frame_011,manual_only_missed_by_rule,,manual_221,,single_cell,,,"152.66,67.06,196.66,116.07",,2156.44,,No rule box matched this manual box at IoU threshold.
+alphafactor_arrest_frame_011,manual_only_missed_by_rule,,manual_223,,single_cell,,,"89.66,63.06,143.66,96.07",,1782.54,,No rule box matched this manual box at IoU threshold.
+alphafactor_arrest_frame_011,manual_only_missed_by_rule,,manual_224,,single_cell,,,"127.66,74.06,161.66,118.07",,1496.34,,No rule box matched this manual box at IoU threshold.
+alphafactor_arrest_frame_011,manual_only_missed_by_rule,,manual_225,,single_cell,,,"69.65,113.07,108.66,146.07",,1287.33,,No rule box matched this manual box at IoU threshold.
+alphafactor_arrest_frame_011,manual_only_missed_by_rule,,manual_226,,single_cell,,,"78.65,79.07,124.66,140.07",,2806.61,,No rule box matched this manual box at IoU threshold.
+alphafactor_arrest_frame_008,class_mismatch_box_match,rule_148,manual_227,early_bud_pair,single_cell,0.8306,"9.00,143.00,57.00,194.00","9.65,137.07,54.65,195.07",2448.00,2610.00,0.9379,
+alphafactor_arrest_frame_008,rule_only_or_bad_box,rule_147,,early_bud_pair,,,"97.00,84.00,162.00,136.00",,3380.00,,,No manual box matched this rule box at IoU threshold.
+alphafactor_arrest_frame_008,manual_only_missed_by_rule,,manual_228,,single_cell,,,"57.65,128.07,96.66,191.07",,2457.63,,No rule box matched this manual box at IoU threshold.
+alphafactor_arrest_frame_008,manual_only_missed_by_rule,,manual_229,,single_cell,,,"86.65,42.06,123.66,89.07",,1739.84,,No rule box matched this manual box at IoU threshold.
+alphafactor_arrest_frame_008,manual_only_missed_by_rule,,manual_230,,single_cell,,,"85.65,86.07,122.66,123.07",,1369.37,,No rule box matched this manual box at IoU threshold.
+alphafactor_arrest_frame_008,manual_only_missed_by_rule,,manual_231,,single_cell,,,"106.66,90.07,143.66,140.07",,1850.00,,No rule box matched this manual box at IoU threshold.
+alphafactor_arrest_frame_008,manual_only_missed_by_rule,,manual_232,,single_cell,,,"131.66,63.06,167.66,114.07",,1836.36,,No rule box matched this manual box at IoU threshold.
+training_1_frame_017,class_mismatch_box_match,rule_179,manual_243,mother_bud_pair,early_bud_pair,0.6016,"76.00,0.00,152.00,56.00","79.65,15.06,143.66,55.06",4256.00,2560.40,1.6622,
+training_1_frame_017,class_mismatch_box_match,rule_185,manual_242,single_cell,mother_bud_pair,0.5935,"184.00,112.00,221.00,150.00","164.66,113.07,218.66,149.07",1406.00,1944.00,0.7233,
+training_1_frame_017,rule_only_or_bad_box,rule_180,,mother_bud_pair,,,"112.00,107.00,179.00,177.00",,4690.00,,,No manual box matched this rule box at IoU threshold.
+training_1_frame_017,rule_only_or_bad_box,rule_181,,early_bud_pair,,,"9.00,137.00,78.00,188.00",,3519.00,,,No manual box matched this rule box at IoU threshold.
+training_1_frame_017,rule_only_or_bad_box,rule_182,,early_bud_pair,,,"157.00,77.00,216.00,131.00",,3186.00,,,No manual box matched this rule box at IoU threshold.
+training_1_frame_017,rule_only_or_bad_box,rule_183,,early_bud_pair,,,"33.00,79.00,90.00,148.00",,3933.00,,,No manual box matched this rule box at IoU threshold.
+training_1_frame_017,rule_only_or_bad_box,rule_184,,early_bud_pair,,,"143.00,0.00,178.00,45.00",,1575.00,,,No manual box matched this rule box at IoU threshold.
+training_1_frame_017,rule_only_or_bad_box,rule_186,,single_cell,,,"164.00,120.00,195.00,155.00",,1085.00,,,No manual box matched this rule box at IoU threshold.
+training_1_frame_017,manual_only_missed_by_rule,,manual_233,,single_cell,,,"124.66,47.06,154.66,69.06",,660.00,,No rule box matched this manual box at IoU threshold.
+training_1_frame_017,manual_only_missed_by_rule,,manual_234,,single_cell,,,"133.66,60.06,167.66,92.07",,1088.34,,No rule box matched this manual box at IoU threshold.
+training_1_frame_017,manual_only_missed_by_rule,,manual_235,,single_cell,,,"191.66,36.06,231.66,70.06",,1360.00,,No rule box matched this manual box at IoU threshold.
+training_1_frame_017,manual_only_missed_by_rule,,manual_236,,single_cell,,,"139.66,137.07,179.66,176.07",,1560.00,,No rule box matched this manual box at IoU threshold.
+training_1_frame_017,manual_only_missed_by_rule,,manual_237,,single_cell,,,"108.66,114.07,138.66,144.07",,900.00,,No rule box matched this manual box at IoU threshold.
+training_1_frame_017,manual_only_missed_by_rule,,manual_238,,single_cell,,,"33.65,94.07,70.65,121.07",,999.00,,No rule box matched this manual box at IoU threshold.
+training_1_frame_017,manual_only_missed_by_rule,,manual_239,,mother_bud_pair,,,"21.65,62.06,92.66,103.07",,2912.12,,No rule box matched this manual box at IoU threshold.
+training_1_frame_017,manual_only_missed_by_rule,,manual_240,,mother_bud_pair,,,"14.65,105.07,73.65,161.07",,3304.00,,No rule box matched this manual box at IoU threshold.
+training_1_frame_017,manual_only_missed_by_rule,,manual_241,,mother_bud_pair,,,"78.65,137.07,127.66,193.07",,2744.56,,No rule box matched this manual box at IoU threshold.
+training_1_frame_017,manual_only_missed_by_rule,,manual_244,,early_bud_pair,,,"166.66,5.06,226.66,45.06",,2400.00,,No rule box matched this manual box at IoU threshold.
+training_1_frame_017,manual_only_missed_by_rule,,manual_245,,single_cell,,,"170.66,78.06,214.66,112.07",,1496.44,,No rule box matched this manual box at IoU threshold.
+training_1_frame_017,manual_only_missed_by_rule,,manual_246,,single_cell,,,"146.66,77.06,180.66,116.07",,1326.34,,No rule box matched this manual box at IoU threshold.
+training_1_frame_017,manual_only_missed_by_rule,,manual_247,,single_cell,,,"10.65,147.07,34.65,192.07",,1080.00,,No rule box matched this manual box at IoU threshold.
+training_1_frame_017,manual_only_missed_by_rule,,manual_248,,single_cell,,,"28.65,141.07,64.65,185.07",,1584.00,,No rule box matched this manual box at IoU threshold.
+training_1_frame_011,class_mismatch_box_match,rule_172,manual_251,early_bud_pair,single_cell,0.6598,"108.00,30.00,154.00,70.00","107.66,29.06,145.66,63.06",1840.00,1292.00,1.4241,
+training_1_frame_011,rule_only_or_bad_box,rule_168,,mother_bud_pair,,,"142.00,95.00,197.00,148.00",,2915.00,,,No manual box matched this rule box at IoU threshold.
+training_1_frame_011,rule_only_or_bad_box,rule_169,,mother_bud_pair,,,"98.00,112.00,162.00,157.00",,2880.00,,,No manual box matched this rule box at IoU threshold.
+training_1_frame_011,rule_only_or_bad_box,rule_170,,mother_bud_pair,,,"129.00,55.00,206.00,111.00",,4312.00,,,No manual box matched this rule box at IoU threshold.
+training_1_frame_011,rule_only_or_bad_box,rule_171,,early_bud_pair,,,"232.00,121.00,255.00,183.00",,1426.00,,,No manual box matched this rule box at IoU threshold.
+training_1_frame_011,rule_only_or_bad_box,rule_173,,early_bud_pair,,,"168.00,94.00,234.00,131.00",,2442.00,,,No manual box matched this rule box at IoU threshold.
+training_1_frame_011,manual_only_missed_by_rule,,manual_249,,single_cell,,,"194.66,91.07,230.66,129.07",,1368.00,,No rule box matched this manual box at IoU threshold.
+training_1_frame_011,manual_only_missed_by_rule,,manual_250,,single_cell,,,"163.66,78.06,202.66,117.07",,1521.39,,No rule box matched this manual box at IoU threshold.
+training_1_frame_011,manual_only_missed_by_rule,,manual_252,,single_cell,,,"82.65,121.07,119.66,150.07",,1073.29,,No rule box matched this manual box at IoU threshold.
+training_1_frame_011,manual_only_missed_by_rule,,manual_253,,mother_bud_pair,,,"115.66,111.07,192.66,153.07",,3234.00,,No rule box matched this manual box at IoU threshold.
+training_1_frame_011,manual_only_missed_by_rule,,manual_254,,early_bud_pair,,,"127.66,53.06,173.66,103.07",,2300.46,,No rule box matched this manual box at IoU threshold.
+training_1_frame_053,same_class_box_match,rule_211,manual_260,single_cell,single_cell,0.6711,"22.00,114.00,63.00,150.00","19.65,118.07,54.65,150.07",1476.00,1120.00,1.3179,
+training_1_frame_053,class_mismatch_box_match,rule_209,manual_258,mother_bud_pair,early_bud_pair,0.5933,"125.00,82.00,191.00,138.00","146.66,84.07,189.66,135.07",3696.00,2193.00,1.6854,
+training_1_frame_053,same_class_box_match,rule_210,manual_257,early_bud_pair,early_bud_pair,0.5633,"56.00,76.00,110.00,116.00","63.65,77.06,101.66,109.07",2160.00,1216.70,1.7753,
+training_1_frame_053,class_mismatch_box_match,rule_208,manual_255,mother_bud_pair,early_bud_pair,0.5252,"139.00,27.00,196.00,94.00","135.66,47.06,189.66,88.07",3819.00,2214.54,1.7245,
+training_1_frame_053,class_mismatch_box_match,rule_207,manual_256,mother_bud_pair,early_bud_pair,0.5229,"33.00,91.00,94.00,162.00","53.65,99.07,89.66,162.07",4331.00,2268.63,1.9091,
+training_1_frame_053,manual_only_missed_by_rule,,manual_259,,single_cell,,,"124.66,94.07,159.66,135.07",,1435.00,,No rule box matched this manual box at IoU threshold.
+training_1_frame_053,manual_only_missed_by_rule,,manual_261,,single_cell,,,"31.65,89.07,68.65,128.07",,1443.00,,No rule box matched this manual box at IoU threshold.
+training_1_frame_035,same_class_box_match,rule_197,manual_266,early_bud_pair,early_bud_pair,0.8367,"135.00,51.00,174.00,107.00","133.66,56.06,172.66,106.07",2184.00,1950.39,1.1198,
+training_1_frame_035,class_mismatch_box_match,rule_196,manual_264,mother_bud_pair,single_cell,0.5327,"175.00,115.00,242.00,160.00","173.66,117.07,213.66,161.07",3015.00,1760.00,1.7131,
+training_1_frame_035,class_mismatch_box_match,rule_194,manual_263,mother_bud_pair,single_cell,0.5172,"79.00,22.00,160.00,71.00","103.66,20.06,153.66,64.06",3969.00,2200.00,1.8041,
+training_1_frame_035,rule_only_or_bad_box,rule_195,,mother_bud_pair,,,"120.00,87.00,182.00,160.00",,4526.00,,,No manual box matched this rule box at IoU threshold.
+training_1_frame_035,rule_only_or_bad_box,rule_198,,early_bud_pair,,,"178.00,104.00,221.00,137.00",,1419.00,,,No manual box matched this rule box at IoU threshold.
+training_1_frame_035,manual_only_missed_by_rule,,manual_262,,single_cell,,,"68.65,21.06,118.66,63.06",,2100.42,,No rule box matched this manual box at IoU threshold.
+training_1_frame_035,manual_only_missed_by_rule,,manual_265,,single_cell,,,"118.66,93.07,153.66,126.07",,1155.00,,No rule box matched this manual box at IoU threshold.
+training_1_frame_035,manual_only_missed_by_rule,,manual_267,,early_bud_pair,,,"137.66,94.07,174.66,154.07",,2220.00,,No rule box matched this manual box at IoU threshold.
+training_1_frame_035,manual_only_missed_by_rule,,manual_268,,mother_bud_pair,,,"180.66,89.07,238.66,148.07",,3422.00,,No rule box matched this manual box at IoU threshold.
+training_1_frame_013,same_class_box_match,rule_175,manual_272,early_bud_pair,early_bud_pair,0.8667,"152.00,107.00,219.00,148.00","153.66,104.07,215.66,148.07",2747.00,2728.00,1.0070,
+training_1_frame_013,same_class_box_match,rule_176,manual_269,single_cell,single_cell,0.7869,"108.00,17.00,147.00,56.00","106.66,14.06,143.66,54.06",1521.00,1480.00,1.0277,
+training_1_frame_013,same_class_box_match,rule_177,manual_271,single_cell,single_cell,0.6894,"122.00,97.00,167.00,137.00","116.66,94.07,162.66,133.07",1800.00,1794.00,1.0033,
+training_1_frame_013,same_class_box_match,rule_174,manual_273,mother_bud_pair,mother_bud_pair,0.5263,"92.00,107.00,152.00,161.00","93.66,120.07,160.66,175.07",3240.00,3685.00,0.8792,
+training_1_frame_013,rule_only_or_bad_box,rule_178,,single_cell,,,"117.00,134.00,161.00,174.00",,1760.00,,,No manual box matched this rule box at IoU threshold.
+training_1_frame_013,manual_only_missed_by_rule,,manual_270,,single_cell,,,"91.66,106.07,127.66,133.07",,972.00,,No rule box matched this manual box at IoU threshold.
+training_1_frame_052,same_class_box_match,rule_205,manual_274,early_bud_pair,early_bud_pair,0.8827,"4.00,72.00,46.00,109.00","3.65,70.06,47.65,110.07",1554.00,1760.44,0.8827,
+training_1_frame_052,same_class_box_match,rule_203,manual_276,mother_bud_pair,mother_bud_pair,0.8155,"100.00,76.00,154.00,131.00","98.66,81.07,149.66,131.07",2970.00,2550.00,1.1647,
+training_1_frame_052,rule_only_or_bad_box,rule_204,,early_bud_pair,,,"107.00,70.00,176.00,130.00",,4140.00,,,No manual box matched this rule box at IoU threshold.
+training_1_frame_052,rule_only_or_bad_box,rule_206,,single_cell,,,"130.00,43.00,166.00,82.00",,1404.00,,,No manual box matched this rule box at IoU threshold.
+training_1_frame_052,manual_only_missed_by_rule,,manual_275,,mother_bud_pair,,,"119.66,36.06,184.66,116.07",,5200.65,,No rule box matched this manual box at IoU threshold.
+training_1_frame_047,same_class_box_match,rule_200,manual_277,mother_bud_pair,mother_bud_pair,0.8727,"29.00,103.00,85.00,150.00","29.65,99.07,84.65,152.07",2632.00,2915.00,0.9029,
+training_1_frame_047,class_mismatch_box_match,rule_201,manual_279,early_bud_pair,single_cell,0.7071,"184.00,101.00,231.00,142.00","183.66,104.07,229.66,134.07",1927.00,1380.00,1.3964,
+training_1_frame_047,same_class_box_match,rule_199,manual_278,mother_bud_pair,mother_bud_pair,0.6878,"136.00,139.00,202.00,179.00","128.66,131.07,195.66,179.07",2640.00,3216.00,0.8209,
+training_1_frame_047,class_mismatch_box_match,rule_202,manual_280,single_cell,mother_bud_pair,0.5425,"153.00,96.00,196.00,132.00","129.66,90.07,195.66,131.07",1548.00,2706.00,0.5721,
+training_1_frame_024,same_class_box_match,rule_188,manual_281,early_bud_pair,early_bud_pair,0.8246,"40.00,46.00,93.00,95.00","41.65,42.06,91.66,92.07",2597.00,2501.00,1.0384,
+training_1_frame_024,same_class_box_match,rule_190,manual_282,early_bud_pair,early_bud_pair,0.7720,"78.00,126.00,117.00,177.00","78.65,125.07,120.66,170.07",1989.00,1890.45,1.0521,
+training_1_frame_024,same_class_box_match,rule_189,manual_283,early_bud_pair,early_bud_pair,0.7073,"205.00,60.00,247.00,117.00","202.66,58.06,244.66,106.07",2394.00,2016.42,1.1873,
+training_1_frame_024,rule_only_or_bad_box,rule_187,,mother_bud_pair,,,"218.00,79.00,255.00,128.00",,1813.00,,,No manual box matched this rule box at IoU threshold.
+training_1_frame_008,class_mismatch_box_match,rule_167,manual_286,early_bud_pair,single_cell,0.7614,"156.00,66.00,203.00,108.00","149.66,61.06,203.66,109.07",1974.00,2592.54,0.7614,
+training_1_frame_008,same_class_box_match,rule_164,manual_287,mother_bud_pair,mother_bud_pair,0.7415,"42.00,113.00,85.00,175.00","48.65,112.07,85.65,183.07",2666.00,2627.00,1.0148,
+training_1_frame_008,same_class_box_match,rule_165,manual_284,early_bud_pair,early_bud_pair,0.7394,"11.00,86.00,62.00,143.00","8.65,77.06,57.65,141.07",2907.00,3136.49,0.9268,
+training_1_frame_008,rule_only_or_bad_box,rule_166,,early_bud_pair,,,"107.00,0.00,150.00,45.00",,1935.00,,,No manual box matched this rule box at IoU threshold.
+training_1_frame_063,rule_only_or_bad_box,rule_215,,mother_bud_pair,,,"93.00,25.00,142.00,88.00",,3087.00,,,No manual box matched this rule box at IoU threshold.
+training_1_frame_063,rule_only_or_bad_box,rule_216,,early_bud_pair,,,"85.00,58.00,130.00,98.00",,1800.00,,,No manual box matched this rule box at IoU threshold.
+training_1_frame_063,rule_only_or_bad_box,rule_217,,early_bud_pair,,,"87.00,7.00,127.00,42.00",,1400.00,,,No manual box matched this rule box at IoU threshold.
+training_1_frame_063,manual_only_missed_by_rule,,manual_288,,mother_bud_pair,,,"80.65,29.06,130.66,102.07",,3651.23,,No rule box matched this manual box at IoU threshold.
+training_1_frame_063,manual_only_missed_by_rule,,manual_289,,early_bud_pair,,,"100.66,40.06,162.66,87.07",,2914.62,,No rule box matched this manual box at IoU threshold.
+training_1_frame_056,same_class_box_match,rule_213,manual_292,mother_bud_pair,mother_bud_pair,0.8174,"130.00,65.00,186.00,109.00","129.66,64.06,189.66,104.07",2464.00,2400.60,1.0264,
+training_1_frame_056,class_mismatch_box_match,rule_214,manual_293,single_cell,early_bud_pair,0.5463,"107.00,84.00,148.00,119.00","103.66,83.07,146.66,141.07",1435.00,2494.00,0.5754,
+training_1_frame_056,rule_only_or_bad_box,rule_212,,mother_bud_pair,,,"90.00,108.00,146.00,152.00",,2464.00,,,No manual box matched this rule box at IoU threshold.
+training_1_frame_056,manual_only_missed_by_rule,,manual_291,,single_cell,,,"89.66,111.07,122.66,147.07",,1188.00,,No rule box matched this manual box at IoU threshold.
+training_1_frame_032,class_mismatch_box_match,rule_193,manual_296,single_cell,mother_bud_pair,0.5447,"82.00,75.00,128.00,109.00","58.65,72.06,128.66,113.07",1564.00,2871.11,0.5447,
+training_1_frame_032,class_mismatch_box_match,rule_192,manual_295,mother_bud_pair,early_bud_pair,0.5394,"60.00,78.00,125.00,140.00","67.65,100.07,123.66,142.07",4030.00,2352.42,1.7131,
+training_1_frame_032,class_mismatch_box_match,rule_191,manual_294,mother_bud_pair,early_bud_pair,0.5020,"99.00,42.00,162.00,113.00","100.66,40.06,156.66,83.07",4473.00,2408.56,1.8571,
+training_1_frame_032,manual_only_missed_by_rule,,manual_297,,single_cell,,,"125.66,63.06,161.66,115.07",,1872.36,,No rule box matched this manual box at IoU threshold.
+training_1_frame_000,same_class_box_match,rule_162,manual_300,early_bud_pair,early_bud_pair,0.8955,"9.00,65.00,63.00,112.00","8.65,63.06,60.65,113.07",2538.00,2600.52,0.9760,
+training_1_frame_000,same_class_box_match,rule_161,manual_298,mother_bud_pair,mother_bud_pair,0.8305,"133.00,63.00,204.00,100.00","131.66,59.06,202.66,102.07",2627.00,3053.71,0.8603,
+training_1_frame_000,same_class_box_match,rule_163,manual_299,early_bud_pair,early_bud_pair,0.6843,"113.00,84.00,164.00,144.00","104.66,84.07,156.66,149.07",3060.00,3380.00,0.9053,
+training_2_frame_092,same_class_box_match,rule_289,manual_302,early_bud_pair,early_bud_pair,0.8769,"66.00,173.00,112.00,227.00","65.65,170.07,113.66,229.07",2484.00,2832.59,0.8769,
+training_2_frame_092,class_mismatch_box_match,rule_290,manual_305,early_bud_pair,single_cell,0.6090,"20.00,197.00,54.00,233.00","12.65,194.07,50.65,228.07",1224.00,1292.00,0.9474,
+training_2_frame_092,class_mismatch_box_match,rule_291,manual_304,early_bud_pair,mother_bud_pair,0.5706,"142.00,27.00,194.00,77.00","133.66,31.06,188.66,91.07",2600.00,3300.55,0.7877,
+training_2_frame_092,class_mismatch_box_match,rule_287,manual_301,mother_bud_pair,early_bud_pair,0.5056,"139.00,59.00,210.00,116.00","152.66,80.07,209.66,116.07",4047.00,2052.00,1.9722,
+training_2_frame_092,rule_only_or_bad_box,rule_286,,mother_bud_pair,,,"87.00,0.00,152.00,51.00",,3315.00,,,No manual box matched this rule box at IoU threshold.
+training_2_frame_092,rule_only_or_bad_box,rule_288,,mother_bud_pair,,,"0.00,143.00,40.00,190.00",,1880.00,,,No manual box matched this rule box at IoU threshold.
+training_2_frame_092,manual_only_missed_by_rule,,manual_303,,early_bud_pair,,,"87.65,4.06,125.66,47.06",,1634.43,,No rule box matched this manual box at IoU threshold.
+training_2_frame_092,manual_only_missed_by_rule,,manual_306,,single_cell,,,"117.66,7.06,151.66,43.06",,1224.00,,No rule box matched this manual box at IoU threshold.
+training_2_frame_076,same_class_box_match,rule_270,manual_311,mother_bud_pair,mother_bud_pair,0.8930,"124.00,4.00,168.00,62.00","124.66,5.06,167.66,58.06",2552.00,2279.00,1.1198,
+training_2_frame_076,class_mismatch_box_match,rule_272,manual_310,early_bud_pair,mother_bud_pair,0.8751,"67.00,124.00,125.00,178.00","65.65,122.07,121.66,179.07",3132.00,3192.57,0.9810,
+training_2_frame_076,same_class_box_match,rule_269,manual_309,mother_bud_pair,mother_bud_pair,0.8197,"124.00,97.00,185.00,138.00","122.66,91.07,183.66,137.07",2501.00,2806.00,0.8913,
+training_2_frame_076,class_mismatch_box_match,rule_271,manual_308,mother_bud_pair,early_bud_pair,0.6549,"81.00,17.00,134.00,83.00","83.65,15.06,129.66,68.06",3498.00,2438.53,1.4345,
+training_2_frame_076,rule_only_or_bad_box,rule_273,,early_bud_pair,,,"110.00,224.00,154.00,255.00",,1364.00,,,No manual box matched this rule box at IoU threshold.
+training_2_frame_076,rule_only_or_bad_box,rule_274,,early_bud_pair,,,"214.00,226.00,255.00,255.00",,1189.00,,,No manual box matched this rule box at IoU threshold.
+training_2_frame_076,manual_only_missed_by_rule,,manual_307,,early_bud_pair,,,"59.65,49.06,110.66,93.07",,2244.95,,No rule box matched this manual box at IoU threshold.
+training_2_frame_103,same_class_box_match,rule_297,manual_312,mother_bud_pair,mother_bud_pair,0.8140,"74.00,104.00,116.00,167.00","70.65,103.07,120.66,168.07",2646.00,3250.65,0.8140,
+training_2_frame_103,same_class_box_match,rule_299,manual_313,early_bud_pair,early_bud_pair,0.7877,"33.00,60.00,87.00,102.00","30.65,60.06,80.65,99.07",2268.00,1950.50,1.1628,
+training_2_frame_103,class_mismatch_box_match,rule_298,manual_315,early_bud_pair,single_cell,0.6711,"191.00,74.00,229.00,113.00","183.66,66.06,229.66,114.07",1482.00,2208.46,0.6711,
+training_2_frame_103,class_mismatch_box_match,rule_300,manual_316,early_bud_pair,single_cell,0.5942,"186.00,160.00,223.00,193.00","175.66,154.07,221.66,190.07",1221.00,1656.00,0.7373,
+training_2_frame_103,rule_only_or_bad_box,rule_301,,single_cell,,,"2.00,238.00,36.00,255.00",,578.00,,,No manual box matched this rule box at IoU threshold.
+training_2_frame_103,manual_only_missed_by_rule,,manual_314,,single_cell,,,"57.65,49.06,97.66,87.07",,1520.78,,No rule box matched this manual box at IoU threshold.
+training_2_frame_050,same_class_box_match,rule_254,manual_319,early_bud_pair,early_bud_pair,0.8654,"125.00,53.00,187.00,94.00","125.66,49.06,185.66,95.07",2542.00,2760.60,0.9208,
+training_2_frame_050,same_class_box_match,rule_253,manual_318,early_bud_pair,early_bud_pair,0.8124,"43.00,66.00,91.00,123.00","45.65,63.06,92.66,119.07",2736.00,2633.03,1.0391,
+training_2_frame_050,same_class_box_match,rule_251,manual_317,mother_bud_pair,mother_bud_pair,0.7903,"119.00,148.00,181.00,206.00","117.66,142.07,182.66,212.07",3596.00,4550.00,0.7903,
+training_2_frame_050,rule_only_or_bad_box,rule_252,,mother_bud_pair,,,"213.00,46.00,255.00,101.00",,2310.00,,,No manual box matched this rule box at IoU threshold.
+training_2_frame_050,rule_only_or_bad_box,rule_255,,single_cell,,,"228.00,88.00,255.00,123.00",,945.00,,,No manual box matched this rule box at IoU threshold.
+training_2_frame_013,same_class_box_match,rule_229,manual_322,single_cell,single_cell,0.8715,"209.00,129.00,245.00,166.00","209.66,125.07,245.66,166.07",1332.00,1476.00,0.9024,
+training_2_frame_013,same_class_box_match,rule_228,manual_323,mother_bud_pair,mother_bud_pair,0.8148,"26.00,62.00,77.00,124.00","26.65,65.06,71.65,126.07",3162.00,2745.45,1.1517,
+training_2_frame_013,same_class_box_match,rule_227,manual_324,mother_bud_pair,mother_bud_pair,0.7561,"127.00,53.00,193.00,96.00","121.66,47.06,190.66,98.07",2838.00,3519.69,0.8063,
+training_2_frame_013,same_class_box_match,rule_225,manual_325,mother_bud_pair,mother_bud_pair,0.6540,"177.00,103.00,236.00,162.00","171.66,106.07,225.66,169.07",3481.00,3402.00,1.0232,
+training_2_frame_013,class_mismatch_box_match,rule_226,manual_320,mother_bud_pair,early_bud_pair,0.5703,"41.00,25.00,96.00,96.00","53.65,42.06,95.66,95.07",3905.00,2226.95,1.7535,
+training_2_frame_013,manual_only_missed_by_rule,,manual_321,,early_bud_pair,,,"33.65,18.06,76.65,61.06",,1849.00,,No rule box matched this manual box at IoU threshold.
+training_2_frame_100,same_class_box_match,rule_296,manual_327,mother_bud_pair,mother_bud_pair,0.8345,"11.00,218.00,68.00,255.00","12.65,219.07,67.65,251.07",2109.00,1760.00,1.1983,
+training_2_frame_100,same_class_box_match,rule_293,manual_326,mother_bud_pair,mother_bud_pair,0.6934,"120.00,87.00,177.00,139.00","118.66,68.06,175.66,140.07",2964.00,4104.57,0.7221,
+training_2_frame_100,class_mismatch_box_match,rule_295,manual_329,mother_bud_pair,single_cell,0.5956,"90.00,153.00,154.00,197.00","104.66,140.07,154.66,200.07",2816.00,3000.00,0.9387,
+training_2_frame_100,class_mismatch_box_match,rule_294,manual_331,mother_bud_pair,single_cell,0.5778,"116.00,0.00,161.00,48.00","125.66,2.06,157.66,41.06",2160.00,1248.00,1.7308,
+training_2_frame_100,manual_only_missed_by_rule,,manual_328,,single_cell,,,"83.65,145.07,123.66,193.07",,1920.48,,No rule box matched this manual box at IoU threshold.
+training_2_frame_100,manual_only_missed_by_rule,,manual_330,,single_cell,,,"107.66,20.06,145.66,56.06",,1368.00,,No rule box matched this manual box at IoU threshold.
+training_2_frame_091,class_mismatch_box_match,rule_283,manual_337,mother_bud_pair,early_bud_pair,0.5029,"18.00,108.00,93.00,165.00","45.65,110.07,88.65,160.07",4275.00,2150.00,1.9884,
+training_2_frame_091,rule_only_or_bad_box,rule_282,,mother_bud_pair,,,"163.00,97.00,215.00,157.00",,3120.00,,,No manual box matched this rule box at IoU threshold.
+training_2_frame_091,rule_only_or_bad_box,rule_284,,mother_bud_pair,,,"59.00,57.00,102.00,129.00",,3096.00,,,No manual box matched this rule box at IoU threshold.
+training_2_frame_091,rule_only_or_bad_box,rule_285,,early_bud_pair,,,"157.00,60.00,218.00,120.00",,3660.00,,,No manual box matched this rule box at IoU threshold.
+training_2_frame_091,manual_only_missed_by_rule,,manual_332,,single_cell,,,"58.65,55.06,96.66,89.07",,1292.72,,No rule box matched this manual box at IoU threshold.
+training_2_frame_091,manual_only_missed_by_rule,,manual_333,,single_cell,,,"68.65,84.07,102.66,122.07",,1292.38,,No rule box matched this manual box at IoU threshold.
+training_2_frame_091,manual_only_missed_by_rule,,manual_334,,single_cell,,,"170.66,119.07,210.66,155.07",,1440.00,,No rule box matched this manual box at IoU threshold.
+training_2_frame_091,manual_only_missed_by_rule,,manual_335,,single_cell,,,"161.66,89.07,200.66,127.07",,1482.00,,No rule box matched this manual box at IoU threshold.
+training_2_frame_091,manual_only_missed_by_rule,,manual_336,,single_cell,,,"18.65,109.07,57.65,148.07",,1521.00,,No rule box matched this manual box at IoU threshold.
+training_2_frame_091,manual_only_missed_by_rule,,manual_338,,mother_bud_pair,,,"152.66,51.06,212.66,99.07",,2880.60,,No rule box matched this manual box at IoU threshold.
+training_2_frame_084,same_class_box_match,rule_279,manual_340,mother_bud_pair,mother_bud_pair,0.8929,"28.00,118.00,76.00,179.00","26.65,116.07,75.65,182.07",2928.00,3234.00,0.9054,
+training_2_frame_084,class_mismatch_box_match,rule_280,manual_343,early_bud_pair,single_cell,0.7209,"220.00,91.00,255.00,127.00","212.66,88.07,253.66,126.07",1260.00,1558.00,0.8087,
+training_2_frame_084,class_mismatch_box_match,rule_278,manual_341,mother_bud_pair,single_cell,0.5387,"143.00,78.00,185.00,145.00","144.66,105.07,182.66,145.07",2814.00,1520.00,1.8513,
+training_2_frame_084,rule_only_or_bad_box,rule_281,,early_bud_pair,,,"147.00,226.00,183.00,255.00",,1044.00,,,No manual box matched this rule box at IoU threshold.
+training_2_frame_084,manual_only_missed_by_rule,,manual_339,,early_bud_pair,,,"115.66,46.06,172.66,88.07",,2394.57,,No rule box matched this manual box at IoU threshold.
+training_2_frame_084,manual_only_missed_by_rule,,manual_342,,single_cell,,,"145.66,79.07,182.66,114.07",,1295.00,,No rule box matched this manual box at IoU threshold.
+training_2_frame_069,same_class_box_match,rule_267,manual_347,mother_bud_pair,mother_bud_pair,0.8458,"75.00,120.00,123.00,186.00","73.65,114.07,121.66,188.07",3168.00,3552.74,0.8917,
+training_2_frame_069,class_mismatch_box_match,rule_266,manual_346,mother_bud_pair,early_bud_pair,0.6642,"226.00,83.00,255.00,143.00","225.66,78.06,252.66,130.07",1740.00,1404.27,1.2391,
+training_2_frame_069,class_mismatch_box_match,rule_265,manual_345,mother_bud_pair,early_bud_pair,0.6011,"104.00,40.00,173.00,93.00","102.66,42.06,149.66,91.07",3657.00,2303.47,1.5876,
+training_2_frame_069,rule_only_or_bad_box,rule_268,,early_bud_pair,,,"229.00,0.00,255.00,28.00",,728.00,,,No manual box matched this rule box at IoU threshold.
+training_2_frame_069,manual_only_missed_by_rule,,manual_344,,single_cell,,,"135.66,39.06,169.66,78.06",,1326.00,,No rule box matched this manual box at IoU threshold.
+training_2_frame_060,same_class_box_match,rule_258,manual_348,mother_bud_pair,mother_bud_pair,0.8948,"71.00,124.00,110.00,184.00","69.65,127.07,109.66,185.07",2340.00,2320.58,1.0084,
+training_2_frame_060,same_class_box_match,rule_260,manual_349,early_bud_pair,early_bud_pair,0.7843,"140.00,10.00,174.00,58.00","132.66,12.06,173.66,58.06",1632.00,1886.00,0.8653,
+training_2_frame_060,same_class_box_match,rule_261,manual_350,early_bud_pair,early_bud_pair,0.7839,"70.00,61.00,117.00,103.00","69.65,59.06,117.66,96.07",1974.00,1776.85,1.1110,
+training_2_frame_060,rule_only_or_bad_box,rule_259,,mother_bud_pair,,,"48.00,69.00,87.00,127.00",,2262.00,,,No manual box matched this rule box at IoU threshold.
+training_2_frame_060,manual_only_missed_by_rule,,manual_351,,single_cell,,,"41.65,63.06,78.65,100.07",,1369.37,,No rule box matched this manual box at IoU threshold.
+training_2_frame_060,manual_only_missed_by_rule,,manual_352,,single_cell,,,"45.65,93.07,87.65,144.07",,2142.00,,No rule box matched this manual box at IoU threshold.
+training_2_frame_048,same_class_box_match,rule_247,manual_355,mother_bud_pair,mother_bud_pair,0.8953,"90.00,62.00,147.00,106.00","87.65,61.06,146.66,104.07",2508.00,2538.02,0.9882,
+training_2_frame_048,same_class_box_match,rule_250,manual_356,early_bud_pair,early_bud_pair,0.8316,"37.00,87.00,73.00,142.00","33.65,88.07,74.65,144.07",1980.00,2296.00,0.8624,
+training_2_frame_048,same_class_box_match,rule_249,manual_357,early_bud_pair,early_bud_pair,0.7998,"156.00,66.00,205.00,102.00","159.66,65.06,201.66,104.07",1764.00,1638.42,1.0766,
+training_2_frame_048,rule_only_or_bad_box,rule_248,,mother_bud_pair,,,"153.00,195.00,219.00,239.00",,2904.00,,,No manual box matched this rule box at IoU threshold.
+training_2_frame_048,manual_only_missed_by_rule,,manual_353,,single_cell,,,"143.66,200.07,182.66,234.07",,1326.00,,No rule box matched this manual box at IoU threshold.
+training_2_frame_048,manual_only_missed_by_rule,,manual_354,,single_cell,,,"173.66,187.07,213.66,232.07",,1800.00,,No rule box matched this manual box at IoU threshold.
+training_2_frame_029,same_class_box_match,rule_238,manual_358,early_bud_pair,early_bud_pair,0.7877,"115.00,89.00,153.00,137.00","110.66,86.07,151.66,135.07",1824.00,2009.00,0.9079,
+training_2_frame_029,rule_only_or_bad_box,rule_237,,early_bud_pair,,,"233.00,0.00,255.00,41.00",,902.00,,,No manual box matched this rule box at IoU threshold.
+training_2_frame_029,rule_only_or_bad_box,rule_239,,single_cell,,,"107.00,125.00,144.00,160.00",,1295.00,,,No manual box matched this rule box at IoU threshold.
+training_2_frame_029,rule_only_or_bad_box,rule_240,,single_cell,,,"133.00,128.00,169.00,166.00",,1368.00,,,No manual box matched this rule box at IoU threshold.
+training_2_frame_029,manual_only_missed_by_rule,,manual_359,,mother_bud_pair,,,"102.66,118.07,165.66,167.07",,3087.00,,No rule box matched this manual box at IoU threshold.
+training_2_frame_019,same_class_box_match,rule_230,manual_360,mother_bud_pair,mother_bud_pair,0.9357,"122.00,36.00,178.00,117.00","120.66,36.06,177.66,114.07",4536.00,4446.57,1.0201,
+training_2_frame_019,same_class_box_match,rule_232,manual_361,early_bud_pair,early_bud_pair,0.7884,"62.00,76.00,119.00,117.00","59.65,73.06,115.66,114.07",2337.00,2296.97,1.0174,
+training_2_frame_019,class_mismatch_box_match,rule_233,manual_362,single_cell,early_bud_pair,0.5674,"86.00,171.00,130.00,209.00","88.65,156.07,134.66,214.07",1672.00,2668.58,0.6266,
+training_2_frame_019,rule_only_or_bad_box,rule_231,,mother_bud_pair,,,"76.00,132.00,147.00,184.00",,3692.00,,,No manual box matched this rule box at IoU threshold.
+training_2_frame_019,manual_only_missed_by_rule,,manual_363,,single_cell,,,"70.65,137.07,113.66,174.07",,1591.37,,No rule box matched this manual box at IoU threshold.
+training_2_frame_019,manual_only_missed_by_rule,,manual_364,,single_cell,,,"103.66,128.07,143.66,170.07",,1680.00,,No rule box matched this manual box at IoU threshold.
+training_2_frame_002,same_class_box_match,rule_221,manual_368,early_bud_pair,early_bud_pair,0.8746,"0.00,53.00,46.00,115.00","0.65,53.06,43.65,111.07",2852.00,2494.43,1.1433,
+training_2_frame_002,same_class_box_match,rule_219,manual_367,mother_bud_pair,mother_bud_pair,0.8425,"177.00,55.00,233.00,110.00","175.66,53.06,228.66,108.07",3080.00,2915.53,1.0564,
+training_2_frame_002,same_class_box_match,rule_218,manual_366,mother_bud_pair,mother_bud_pair,0.8232,"149.00,87.00,210.00,140.00","145.66,85.07,204.66,139.07",3233.00,3186.00,1.0148,
+training_2_frame_002,class_mismatch_box_match,rule_220,manual_369,mother_bud_pair,early_bud_pair,0.5973,"197.00,93.00,254.00,156.00","196.66,115.07,249.66,156.07",3591.00,2173.00,1.6526,
+training_2_frame_002,manual_only_missed_by_rule,,manual_365,,single_cell,,,"198.66,85.07,238.66,126.07",,1640.00,,No rule box matched this manual box at IoU threshold.
+training_2_frame_105,same_class_box_match,rule_304,manual_370,early_bud_pair,early_bud_pair,0.8443,"139.00,105.00,175.00,165.00","140.66,102.07,176.66,163.07",2160.00,2196.00,0.9836,
+training_2_frame_105,same_class_box_match,rule_303,manual_372,mother_bud_pair,mother_bud_pair,0.7953,"112.00,47.00,148.00,107.00","110.66,49.06,152.66,104.07",2160.00,2310.42,0.9349,
+training_2_frame_105,same_class_box_match,rule_302,manual_371,mother_bud_pair,mother_bud_pair,0.7071,"80.00,104.00,140.00,153.00","78.65,108.07,135.66,146.07",2940.00,2166.38,1.3571,
+training_2_frame_081,same_class_box_match,rule_275,manual_374,mother_bud_pair,mother_bud_pair,0.8992,"138.00,0.00,190.00,56.00","137.66,2.06,188.66,54.06",2912.00,2652.00,1.0980,
+training_2_frame_081,same_class_box_match,rule_276,manual_375,mother_bud_pair,mother_bud_pair,0.7795,"23.00,0.00,83.00,44.00","19.65,0.06,77.65,49.06",2640.00,2842.00,0.9289,
+training_2_frame_081,same_class_box_match,rule_277,manual_373,mother_bud_pair,mother_bud_pair,0.7308,"109.00,153.00,170.00,199.00","111.66,151.07,164.66,207.07",2806.00,2968.00,0.9454,
+training_2_frame_064,same_class_box_match,rule_264,manual_378,early_bud_pair,early_bud_pair,0.9044,"96.00,42.00,151.00,87.00","94.66,40.06,151.66,88.07",2475.00,2736.57,0.9044,
+training_2_frame_064,same_class_box_match,rule_262,manual_376,mother_bud_pair,mother_bud_pair,0.5412,"88.00,116.00,162.00,165.00","112.66,103.07,160.66,167.07",3626.00,3072.00,1.1803,
+training_2_frame_064,same_class_box_match,rule_263,manual_377,mother_bud_pair,mother_bud_pair,0.5051,"87.00,96.00,144.00,156.00","84.65,103.07,122.66,161.07",3420.00,2204.58,1.5513,
+training_2_frame_046,same_class_box_match,rule_246,manual_381,early_bud_pair,early_bud_pair,0.8236,"158.00,53.00,207.00,91.00","151.66,53.06,204.66,90.07",1862.00,1961.53,0.9493,
+training_2_frame_046,rule_only_or_bad_box,rule_244,,mother_bud_pair,,,"134.00,24.00,194.00,73.00",,2940.00,,,No manual box matched this rule box at IoU threshold.
+training_2_frame_046,rule_only_or_bad_box,rule_245,,early_bud_pair,,,"81.00,133.00,133.00,200.00",,3484.00,,,No manual box matched this rule box at IoU threshold.
+training_2_frame_046,manual_only_missed_by_rule,,manual_379,,early_bud_pair,,,"73.65,132.07,128.66,171.07",,2145.39,,No rule box matched this manual box at IoU threshold.
+training_2_frame_046,manual_only_missed_by_rule,,manual_380,,early_bud_pair,,,"65.65,160.07,118.66,209.07",,2597.49,,No rule box matched this manual box at IoU threshold.
+training_2_frame_046,manual_only_missed_by_rule,,manual_382,,single_cell,,,"131.66,37.06,164.66,66.06",,957.00,,No rule box matched this manual box at IoU threshold.
+training_2_frame_046,manual_only_missed_by_rule,,manual_383,,single_cell,,,"150.66,17.06,191.66,61.06",,1804.00,,No rule box matched this manual box at IoU threshold.
+training_2_frame_033,same_class_box_match,rule_243,manual_387,mother_bud_pair,mother_bud_pair,0.6788,"29.00,113.00,72.00,169.00","18.65,112.07,68.65,164.07",2408.00,2600.00,0.9262,
+training_2_frame_033,class_mismatch_box_match,rule_242,manual_388,mother_bud_pair,early_bud_pair,0.5573,"57.00,105.00,101.00,181.00","53.65,99.07,96.66,158.07",3344.00,2537.59,1.3178,
+training_2_frame_033,rule_only_or_bad_box,rule_241,,mother_bud_pair,,,"87.00,123.00,142.00,178.00",,3025.00,,,No manual box matched this rule box at IoU threshold.
+training_2_frame_033,manual_only_missed_by_rule,,manual_384,,single_cell,,,"69.65,142.07,102.66,184.07",,1386.42,,No rule box matched this manual box at IoU threshold.
+training_2_frame_033,manual_only_missed_by_rule,,manual_385,,single_cell,,,"110.66,140.07,137.66,176.07",,972.00,,No rule box matched this manual box at IoU threshold.
+training_2_frame_033,manual_only_missed_by_rule,,manual_386,,single_cell,,,"86.65,105.07,132.66,156.07",,2346.51,,No rule box matched this manual box at IoU threshold.
+training_2_frame_024,class_mismatch_box_match,rule_236,manual_391,early_bud_pair,single_cell,0.7664,"186.00,36.00,230.00,73.00","179.66,33.06,229.66,71.06",1628.00,1900.00,0.8568,
+training_2_frame_024,same_class_box_match,rule_235,manual_390,early_bud_pair,early_bud_pair,0.7228,"96.00,62.00,135.00,112.00","98.66,57.06,138.66,108.07",1950.00,2040.40,0.9557,
+training_2_frame_024,same_class_box_match,rule_234,manual_389,early_bud_pair,early_bud_pair,0.6807,"107.00,120.00,143.00,172.00","95.66,117.07,145.66,172.07",1872.00,2750.00,0.6807,
+training_2_frame_012,same_class_box_match,rule_222,manual_392,mother_bud_pair,mother_bud_pair,0.8203,"107.00,8.00,169.00,75.00","102.66,7.06,163.66,73.06",4154.00,4026.00,1.0318,
+training_2_frame_012,class_mismatch_box_match,rule_224,manual_393,single_cell,mother_bud_pair,0.5232,"177.00,61.00,217.00,99.00","171.66,62.06,216.66,123.07",1520.00,2745.45,0.5536,
+training_2_frame_012,class_mismatch_box_match,rule_223,manual_394,mother_bud_pair,early_bud_pair,0.5157,"145.00,55.00,209.00,125.00","143.66,50.06,186.66,114.07",4480.00,2752.43,1.6277,
+training_2_frame_112,same_class_box_match,rule_306,manual_397,mother_bud_pair,mother_bud_pair,0.8067,"158.00,89.00,213.00,136.00","155.66,86.07,212.66,131.07",2585.00,2565.00,1.0078,
+training_2_frame_112,same_class_box_match,rule_305,manual_396,mother_bud_pair,mother_bud_pair,0.7617,"78.00,51.00,141.00,93.00","72.65,49.06,134.66,91.07",2646.00,2605.04,1.0157,
+training_2_frame_112,manual_only_missed_by_rule,,manual_395,,mother_bud_pair,,,"45.65,36.06,88.65,98.07",,2666.43,,No rule box matched this manual box at IoU threshold.
+training_2_frame_059,class_mismatch_box_match,rule_256,manual_399,mother_bud_pair,early_bud_pair,0.8661,"98.00,123.00,163.00,182.00","103.66,122.07,161.66,181.07",3835.00,3422.00,1.1207,
+training_2_frame_059,same_class_box_match,rule_257,manual_398,mother_bud_pair,mother_bud_pair,0.6797,"97.00,160.00,138.00,224.00","91.66,164.07,133.66,218.07",2624.00,2268.00,1.1570,
+training_2_frame_059,manual_only_missed_by_rule,,manual_400,,single_cell,,,"117.66,24.06,158.66,61.06",,1517.00,,No rule box matched this manual box at IoU threshold.
+training_2_frame_095,class_mismatch_box_match,rule_292,manual_401,mother_bud_pair,single_cell,0.5348,"101.00,167.00,155.00,217.00","115.66,176.07,153.66,214.07",2700.00,1444.00,1.8698,
+training_2_frame_095,manual_only_missed_by_rule,,manual_402,,single_cell,,,"133.66,21.06,169.66,59.06",,1368.00,,No rule box matched this manual box at IoU threshold.
+training_2_frame_095,manual_only_missed_by_rule,,manual_403,,mother_bud_pair,,,"65.65,96.07,134.66,143.07",,3243.47,,No rule box matched this manual box at IoU threshold.
+training_2_frame_095,manual_only_missed_by_rule,,manual_404,,early_bud_pair,,,"90.66,164.07,135.66,207.07",,1935.00,,No rule box matched this manual box at IoU threshold.
