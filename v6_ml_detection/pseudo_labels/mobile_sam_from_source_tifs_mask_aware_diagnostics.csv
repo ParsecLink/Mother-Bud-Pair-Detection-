@@ -1,0 +1,312 @@
+image_id,mask_source,raw_mask_count,seeded_mask_count,nucleus_count,budneck_count,mask_union_labels,fallback_dot_labels
+45min_after_washout_frame_000,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\45min after washout_frame_000.png,3,16,4,12,3,0
+45min_after_washout_frame_001,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\45min after washout_frame_001.png,6,16,8,8,6,0
+45min_after_washout_frame_002,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\45min after washout_frame_002.png,3,16,5,9,3,0
+45min_after_washout_frame_003,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\45min after washout_frame_003.png,7,21,10,10,7,0
+45min_after_washout_frame_004,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\45min after washout_frame_004.png,3,14,4,10,3,0
+45min_after_washout_frame_005,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\45min after washout_frame_005.png,5,21,8,9,5,0
+45min_after_washout_frame_006,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\45min after washout_frame_006.png,5,17,8,7,5,0
+45min_after_washout_frame_007,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\45min after washout_frame_007.png,5,16,8,9,5,0
+45min_after_washout_frame_008,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\45min after washout_frame_008.png,4,13,6,6,4,0
+45min_after_washout_frame_009,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\45min after washout_frame_009.png,4,16,7,8,4,0
+45min_after_washout_frame_010,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\45min after washout_frame_010.png,4,14,5,8,4,0
+45min_after_washout_frame_011,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\45min after washout_frame_011.png,4,12,6,7,3,0
+45min_after_washout_frame_012,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\45min after washout_frame_012.png,6,17,8,8,6,0
+45min_after_washout_frame_013,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\45min after washout_frame_013.png,5,22,7,15,5,0
+45min_after_washout_frame_014,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\45min after washout_frame_014.png,3,11,6,6,4,0
+45min_after_washout_frame_015,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\45min after washout_frame_015.png,6,16,9,8,6,0
+45min_after_washout_frame_016,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\45min after washout_frame_016.png,4,14,6,6,4,0
+45min_after_washout_frame_017,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\45min after washout_frame_017.png,6,21,9,9,6,0
+45min_after_washout_frame_018,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\45min after washout_frame_018.png,7,23,11,11,7,0
+45min_after_washout_frame_019,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\45min after washout_frame_019.png,5,15,9,6,5,0
+60min_after_washout_frame_000,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\60min after washout_frame_000.png,4,19,7,10,4,0
+60min_after_washout_frame_001,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\60min after washout_frame_001.png,6,29,13,13,7,0
+60min_after_washout_frame_002,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\60min after washout_frame_002.png,6,22,11,14,6,0
+60min_after_washout_frame_003,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\60min after washout_frame_003.png,7,20,11,10,7,0
+60min_after_washout_frame_004,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\60min after washout_frame_004.png,8,29,13,11,8,0
+60min_after_washout_frame_005,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\60min after washout_frame_005.png,5,16,8,10,5,0
+60min_after_washout_frame_006,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\60min after washout_frame_006.png,7,21,11,9,7,0
+60min_after_washout_frame_007,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\60min after washout_frame_007.png,9,34,16,11,8,0
+60min_after_washout_frame_008,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\60min after washout_frame_008.png,9,28,14,12,9,0
+60min_after_washout_frame_009,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\60min after washout_frame_009.png,6,21,10,8,6,0
+60min_after_washout_frame_010,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\60min after washout_frame_010.png,8,25,14,11,8,0
+60min_after_washout_frame_011,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\60min after washout_frame_011.png,7,26,12,13,7,0
+60min_after_washout_frame_012,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\60min after washout_frame_012.png,5,14,8,7,5,0
+60min_after_washout_frame_013,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\60min after washout_frame_013.png,6,22,10,7,6,0
+60min_after_washout_frame_014,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\60min after washout_frame_014.png,8,24,13,11,8,0
+60min_after_washout_frame_015,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\60min after washout_frame_015.png,7,25,12,10,7,0
+85min_after_washout_frame_000,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\85min after washout_frame_000.png,4,17,8,8,4,0
+85min_after_washout_frame_001,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\85min after washout_frame_001.png,4,12,7,5,4,0
+85min_after_washout_frame_002,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\85min after washout_frame_002.png,5,17,10,8,5,0
+85min_after_washout_frame_003,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\85min after washout_frame_003.png,8,28,14,10,8,0
+85min_after_washout_frame_004,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\85min after washout_frame_004.png,7,17,9,10,7,0
+85min_after_washout_frame_005,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\85min after washout_frame_005.png,8,25,14,9,8,0
+85min_after_washout_frame_006,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\85min after washout_frame_006.png,9,13,9,10,9,0
+85min_after_washout_frame_007,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\85min after washout_frame_007.png,6,17,9,7,6,0
+85min_after_washout_frame_008,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\85min after washout_frame_008.png,5,14,9,5,5,0
+85min_after_washout_frame_009,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\85min after washout_frame_009.png,7,18,11,7,7,0
+85min_after_washout_frame_010,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\85min after washout_frame_010.png,10,30,14,19,10,0
+85min_after_washout_frame_011,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\85min after washout_frame_011.png,8,26,12,8,8,0
+85min_after_washout_frame_012,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\85min after washout_frame_012.png,8,25,13,10,8,0
+85min_after_washout_frame_013,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\85min after washout_frame_013.png,5,18,9,6,5,0
+85min_after_washout_frame_014,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\85min after washout_frame_014.png,7,25,13,8,7,0
+85min_after_washout_frame_015,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\85min after washout_frame_015.png,6,16,10,5,6,0
+85min_after_washout_frame_016,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\85min after washout_frame_016.png,5,16,9,9,5,0
+85min_after_washout_frame_017,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\85min after washout_frame_017.png,6,23,12,8,6,0
+85min_after_washout_frame_018,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\85min after washout_frame_018.png,6,20,9,7,6,0
+85min_after_washout_frame_019,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\85min after washout_frame_019.png,6,26,10,12,6,0
+85min_after_washout_frame_020,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\85min after washout_frame_020.png,5,16,10,8,5,0
+85min_after_washout_frame_021,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\85min after washout_frame_021.png,6,20,10,9,6,0
+85min_after_washout_frame_022,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\85min after washout_frame_022.png,6,19,10,9,6,0
+85min_after_washout_frame_023,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\85min after washout_frame_023.png,5,19,9,10,5,0
+Colorado+htb2-GFP_frame_000,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\Colorado+htb2-GFP_frame_000.png,10,29,16,20,10,0
+Colorado+htb2-GFP_frame_001,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\Colorado+htb2-GFP_frame_001.png,10,27,15,12,10,0
+Colorado+htb2-GFP_frame_002,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\Colorado+htb2-GFP_frame_002.png,10,36,16,16,10,0
+Colorado+htb2-GFP_frame_003,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\Colorado+htb2-GFP_frame_003.png,10,26,14,13,9,0
+Colorado+htb2-GFP_frame_004,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\Colorado+htb2-GFP_frame_004.png,10,31,15,14,10,0
+Colorado+htb2-GFP_frame_005,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\Colorado+htb2-GFP_frame_005.png,7,22,12,13,7,0
+Colorado+htb2-GFP_frame_006,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\Colorado+htb2-GFP_frame_006.png,7,27,11,13,7,0
+Colorado+htb2-GFP_frame_007,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\Colorado+htb2-GFP_frame_007.png,10,32,16,23,10,0
+Colorado+htb2-GFP_frame_008,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\Colorado+htb2-GFP_frame_008.png,6,22,11,13,6,0
+Colorado+htb2-GFP_frame_009,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\Colorado+htb2-GFP_frame_009.png,13,37,17,22,12,0
+Colorado+htb2-GFP_frame_010,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\Colorado+htb2-GFP_frame_010.png,9,32,16,15,10,0
+Colorado+htb2-GFP_frame_011,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\Colorado+htb2-GFP_frame_011.png,7,24,12,12,7,0
+Colorado+htb2-GFP_frame_012,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\Colorado+htb2-GFP_frame_012.png,10,32,16,15,10,0
+Colorado+htb2-GFP_frame_013,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\Colorado+htb2-GFP_frame_013.png,7,24,10,10,7,0
+Colorado+htb2-GFP_frame_014,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\Colorado+htb2-GFP_frame_014.png,11,32,15,17,11,0
+Colorado+htb2-GFP_frame_015,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\Colorado+htb2-GFP_frame_015.png,6,22,11,8,6,0
+Colorado+htb2-GFP_frame_016,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\Colorado+htb2-GFP_frame_016.png,12,43,19,22,12,0
+Colorado+htb2-GFP_frame_017,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\Colorado+htb2-GFP_frame_017.png,8,30,12,14,8,0
+Colorado+htb2-GFP_frame_018,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\Colorado+htb2-GFP_frame_018.png,11,28,15,16,11,0
+Colorado+htb2-GFP_frame_019,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\Colorado+htb2-GFP_frame_019.png,10,28,15,13,10,0
+_ess_dense_frame_000,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\_ess dense_frame_000.png,8,25,12,12,8,0
+_ess_dense_frame_001,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\_ess dense_frame_001.png,5,17,7,10,5,0
+_ess_dense_frame_002,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\_ess dense_frame_002.png,5,19,8,13,5,0
+_ess_dense_frame_003,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\_ess dense_frame_003.png,6,21,12,9,6,0
+_ess_dense_frame_004,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\_ess dense_frame_004.png,5,16,8,7,5,0
+_ess_dense_frame_005,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\_ess dense_frame_005.png,6,16,9,6,6,0
+_ess_dense_frame_006,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\_ess dense_frame_006.png,5,14,6,10,4,0
+_ess_dense_frame_007,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\_ess dense_frame_007.png,7,23,11,9,7,0
+_ess_dense_frame_008,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\_ess dense_frame_008.png,6,20,9,8,5,0
+_ess_dense_frame_009,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\_ess dense_frame_009.png,6,20,11,9,6,0
+_ess_dense_frame_010,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\_ess dense_frame_010.png,7,23,11,9,7,0
+_ess_dense_frame_011,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\_ess dense_frame_011.png,6,21,10,10,6,0
+_ess_dense_frame_012,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\_ess dense_frame_012.png,5,16,8,7,5,0
+_ess_dense_frame_013,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\_ess dense_frame_013.png,8,23,12,9,8,0
+_ess_dense_frame_014,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\_ess dense_frame_014.png,6,24,10,14,7,0
+_ess_dense_frame_015,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\_ess dense_frame_015.png,6,25,12,10,7,0
+_ess_dense_frame_016,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\_ess dense_frame_016.png,6,20,9,10,6,0
+_ess_dense_frame_017,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\_ess dense_frame_017.png,6,18,8,8,6,0
+_ess_dense_frame_018,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\_ess dense_frame_018.png,6,27,11,14,6,0
+_ess_dense_frame_019,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\_ess dense_frame_019.png,5,21,8,13,6,0
+_ess_dense_frame_020,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\_ess dense_frame_020.png,8,26,11,12,7,0
+alphafactor_arrest_frame_000,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\alphafactor arrest_frame_000.png,6,25,6,24,6,0
+alphafactor_arrest_frame_001,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\alphafactor arrest_frame_001.png,2,14,3,23,2,0
+alphafactor_arrest_frame_002,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\alphafactor arrest_frame_002.png,5,21,6,28,5,0
+alphafactor_arrest_frame_003,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\alphafactor arrest_frame_003.png,5,20,9,19,6,0
+alphafactor_arrest_frame_004,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\alphafactor arrest_frame_004.png,7,27,9,16,7,0
+alphafactor_arrest_frame_005,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\alphafactor arrest_frame_005.png,4,15,7,11,5,0
+alphafactor_arrest_frame_006,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\alphafactor arrest_frame_006.png,4,27,6,21,4,0
+alphafactor_arrest_frame_007,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\alphafactor arrest_frame_007.png,3,16,4,14,3,0
+alphafactor_arrest_frame_008,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\alphafactor arrest_frame_008.png,2,7,2,9,2,0
+alphafactor_arrest_frame_009,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\alphafactor arrest_frame_009.png,6,30,8,23,5,0
+alphafactor_arrest_frame_010,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\alphafactor arrest_frame_010.png,7,29,9,23,6,0
+alphafactor_arrest_frame_011,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\alphafactor arrest_frame_011.png,3,16,4,18,3,0
+alphafactor_arrest_frame_012,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\alphafactor arrest_frame_012.png,5,28,8,18,5,0
+alphafactor_arrest_frame_013,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\alphafactor arrest_frame_013.png,5,20,8,26,5,0
+alphafactor_arrest_frame_014,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\alphafactor arrest_frame_014.png,4,17,6,12,4,0
+alphafactor_arrest_frame_015,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\alphafactor arrest_frame_015.png,4,12,5,23,4,0
+alphafactor_arrest_frame_016,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\alphafactor arrest_frame_016.png,6,21,7,16,6,0
+alphafactor_arrest_frame_017,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\alphafactor arrest_frame_017.png,4,26,7,26,4,0
+alphafactor_arrest_frame_018,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\alphafactor arrest_frame_018.png,8,35,14,17,7,0
+alphafactor_arrest_frame_019,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\alphafactor arrest_frame_019.png,4,14,6,17,4,0
+alphafactor_arrest_frame_020,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\alphafactor arrest_frame_020.png,4,16,5,18,3,1
+alphafactor_arrest_frame_021,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\alphafactor arrest_frame_021.png,3,7,3,17,3,0
+alphafactor_arrest_frame_022,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\alphafactor arrest_frame_022.png,6,20,8,16,6,0
+alphafactor_arrest_frame_023,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\alphafactor arrest_frame_023.png,8,18,8,20,7,0
+alphafactor_arrest_frame_024,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\alphafactor arrest_frame_024.png,5,25,7,25,5,0
+alphafactor_arrest_frame_025,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\alphafactor arrest_frame_025.png,2,18,3,17,2,0
+alphafactor_arrest_frame_026,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\alphafactor arrest_frame_026.png,7,36,12,24,10,0
+alphafactor_arrest_frame_027,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\alphafactor arrest_frame_027.png,1,11,1,21,1,0
+alphafactor_arrest_frame_028,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\alphafactor arrest_frame_028.png,2,13,3,24,2,0
+training_1_frame_000,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\training_1_frame_000.png,3,7,4,4,3,0
+training_1_frame_001,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\training_1_frame_001.png,5,14,7,7,5,0
+training_1_frame_002,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\training_1_frame_002.png,3,10,5,4,3,0
+training_1_frame_003,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\training_1_frame_003.png,5,14,7,7,4,0
+training_1_frame_004,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\training_1_frame_004.png,4,13,5,8,4,0
+training_1_frame_005,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\training_1_frame_005.png,3,10,5,5,3,0
+training_1_frame_006,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\training_1_frame_006.png,4,10,6,4,4,0
+training_1_frame_007,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\training_1_frame_007.png,4,11,4,7,4,0
+training_1_frame_008,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\training_1_frame_008.png,4,10,5,5,4,0
+training_1_frame_009,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\training_1_frame_009.png,5,16,8,8,6,0
+training_1_frame_010,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\training_1_frame_010.png,4,18,6,7,4,0
+training_1_frame_011,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\training_1_frame_011.png,6,21,9,8,6,0
+training_1_frame_012,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\training_1_frame_012.png,4,12,6,6,4,0
+training_1_frame_013,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\training_1_frame_013.png,5,12,6,3,5,0
+training_1_frame_014,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\training_1_frame_014.png,8,25,15,8,9,0
+training_1_frame_015,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\training_1_frame_015.png,5,19,10,8,6,0
+training_1_frame_016,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\training_1_frame_016.png,3,11,4,6,3,0
+training_1_frame_017,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\training_1_frame_017.png,8,20,10,9,8,0
+training_1_frame_018,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\training_1_frame_018.png,4,15,7,6,4,0
+training_1_frame_019,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\training_1_frame_019.png,4,14,6,5,4,0
+training_1_frame_020,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\training_1_frame_020.png,8,29,14,11,8,0
+training_1_frame_021,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\training_1_frame_021.png,3,15,8,6,5,0
+training_1_frame_022,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\training_1_frame_022.png,4,13,7,5,5,0
+training_1_frame_023,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\training_1_frame_023.png,6,21,11,6,6,0
+training_1_frame_024,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\training_1_frame_024.png,4,11,5,5,4,0
+training_1_frame_025,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\training_1_frame_025.png,6,16,9,6,6,0
+training_1_frame_026,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\training_1_frame_026.png,5,14,8,5,5,0
+training_1_frame_027,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\training_1_frame_027.png,4,9,6,3,4,0
+training_1_frame_028,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\training_1_frame_028.png,6,16,9,6,7,0
+training_1_frame_029,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\training_1_frame_029.png,3,12,6,5,3,0
+training_1_frame_030,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\training_1_frame_030.png,6,19,9,8,6,0
+training_1_frame_031,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\training_1_frame_031.png,5,16,9,7,5,0
+training_1_frame_032,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\training_1_frame_032.png,2,7,5,2,3,0
+training_1_frame_033,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\training_1_frame_033.png,4,14,8,4,4,0
+training_1_frame_034,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\training_1_frame_034.png,3,12,6,4,3,0
+training_1_frame_035,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\training_1_frame_035.png,5,17,8,9,5,0
+training_1_frame_036,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\training_1_frame_036.png,4,12,7,2,5,0
+training_1_frame_037,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\training_1_frame_037.png,3,12,6,5,4,0
+training_1_frame_038,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\training_1_frame_038.png,5,14,6,7,5,0
+training_1_frame_039,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\training_1_frame_039.png,3,10,5,5,3,0
+training_1_frame_040,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\training_1_frame_040.png,2,7,3,5,2,0
+training_1_frame_041,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\training_1_frame_041.png,2,6,4,2,2,0
+training_1_frame_042,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\training_1_frame_042.png,5,19,9,7,5,0
+training_1_frame_043,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\training_1_frame_043.png,3,10,5,4,3,0
+training_1_frame_044,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\training_1_frame_044.png,4,11,6,4,4,0
+training_1_frame_045,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\training_1_frame_045.png,3,11,6,5,3,0
+training_1_frame_046,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\training_1_frame_046.png,5,13,8,5,5,0
+training_1_frame_047,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\training_1_frame_047.png,4,9,6,3,4,0
+training_1_frame_048,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\training_1_frame_048.png,4,8,6,2,4,0
+training_1_frame_049,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\training_1_frame_049.png,4,14,6,5,4,0
+training_1_frame_050,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\training_1_frame_050.png,4,7,5,2,4,0
+training_1_frame_051,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\training_1_frame_051.png,4,11,6,5,4,0
+training_1_frame_052,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\training_1_frame_052.png,4,9,5,3,4,0
+training_1_frame_053,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\training_1_frame_053.png,5,16,8,5,5,0
+training_1_frame_054,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\training_1_frame_054.png,5,15,8,5,5,0
+training_1_frame_055,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\training_1_frame_055.png,5,15,8,6,5,0
+training_1_frame_056,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\training_1_frame_056.png,3,9,5,3,3,0
+training_1_frame_057,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\training_1_frame_057.png,5,16,10,5,5,0
+training_1_frame_058,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\training_1_frame_058.png,3,11,5,4,3,0
+training_1_frame_059,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\training_1_frame_059.png,4,13,7,5,4,0
+training_1_frame_060,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\training_1_frame_060.png,4,18,7,9,4,0
+training_1_frame_061,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\training_1_frame_061.png,2,5,3,2,2,0
+training_1_frame_062,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\training_1_frame_062.png,3,13,4,7,3,0
+training_1_frame_063,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\training_1_frame_063.png,3,10,4,4,3,0
+training_1_frame_064,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\training_1_frame_064.png,4,11,7,4,4,0
+training_2_frame_000,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\training_2_frame_000.png,2,8,3,7,2,0
+training_2_frame_001,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\training_2_frame_001.png,4,12,6,5,4,0
+training_2_frame_002,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\training_2_frame_002.png,4,12,7,5,4,0
+training_2_frame_003,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\training_2_frame_003.png,6,17,10,6,6,0
+training_2_frame_004,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\training_2_frame_004.png,4,11,6,4,4,0
+training_2_frame_005,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\training_2_frame_005.png,4,9,5,3,4,0
+training_2_frame_006,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\training_2_frame_006.png,3,15,6,6,3,0
+training_2_frame_007,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\training_2_frame_007.png,3,12,5,6,3,0
+training_2_frame_008,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\training_2_frame_008.png,5,16,9,5,5,0
+training_2_frame_009,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\training_2_frame_009.png,3,11,6,5,3,0
+training_2_frame_010,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\training_2_frame_010.png,3,15,6,5,3,0
+training_2_frame_011,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\training_2_frame_011.png,3,11,6,2,4,0
+training_2_frame_012,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\training_2_frame_012.png,2,7,5,2,3,0
+training_2_frame_013,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\training_2_frame_013.png,5,15,9,5,5,0
+training_2_frame_014,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\training_2_frame_014.png,4,13,8,4,5,0
+training_2_frame_015,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\training_2_frame_015.png,2,10,5,3,3,0
+training_2_frame_016,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\training_2_frame_016.png,3,4,3,1,3,0
+training_2_frame_017,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\training_2_frame_017.png,3,12,7,5,4,0
+training_2_frame_018,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\training_2_frame_018.png,5,7,6,1,5,0
+training_2_frame_019,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\training_2_frame_019.png,4,10,6,3,4,0
+training_2_frame_020,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\training_2_frame_020.png,8,28,12,9,7,0
+training_2_frame_021,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\training_2_frame_021.png,4,12,6,3,4,0
+training_2_frame_022,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\training_2_frame_022.png,3,10,5,3,3,0
+training_2_frame_023,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\training_2_frame_023.png,3,6,3,3,3,0
+training_2_frame_024,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\training_2_frame_024.png,3,7,3,4,3,0
+training_2_frame_025,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\training_2_frame_025.png,3,9,5,4,3,0
+training_2_frame_026,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\training_2_frame_026.png,4,9,5,4,4,0
+training_2_frame_027,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\training_2_frame_027.png,4,12,8,4,4,0
+training_2_frame_028,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\training_2_frame_028.png,4,11,5,6,4,0
+training_2_frame_029,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\training_2_frame_029.png,4,7,4,3,4,0
+training_2_frame_030,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\training_2_frame_030.png,3,12,5,5,3,0
+training_2_frame_031,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\training_2_frame_031.png,3,8,4,4,3,0
+training_2_frame_032,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\training_2_frame_032.png,3,15,6,7,3,0
+training_2_frame_033,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\training_2_frame_033.png,3,13,6,6,3,0
+training_2_frame_034,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\training_2_frame_034.png,2,6,2,4,2,0
+training_2_frame_035,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\training_2_frame_035.png,3,15,7,7,4,0
+training_2_frame_036,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\training_2_frame_036.png,1,6,3,4,2,0
+training_2_frame_037,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\training_2_frame_037.png,5,16,7,5,5,0
+training_2_frame_038,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\training_2_frame_038.png,4,14,7,3,4,0
+training_2_frame_039,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\training_2_frame_039.png,3,13,5,7,3,0
+training_2_frame_040,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\training_2_frame_040.png,2,11,4,6,2,0
+training_2_frame_041,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\training_2_frame_041.png,5,19,6,8,5,0
+training_2_frame_042,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\training_2_frame_042.png,3,10,5,4,3,0
+training_2_frame_043,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\training_2_frame_043.png,3,10,5,5,3,0
+training_2_frame_044,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\training_2_frame_044.png,4,13,8,5,4,0
+training_2_frame_045,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\training_2_frame_045.png,3,10,5,3,3,0
+training_2_frame_046,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\training_2_frame_046.png,3,11,4,6,3,0
+training_2_frame_047,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\training_2_frame_047.png,4,17,7,6,4,0
+training_2_frame_048,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\training_2_frame_048.png,4,11,6,5,4,0
+training_2_frame_049,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\training_2_frame_049.png,4,13,7,5,4,0
+training_2_frame_050,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\training_2_frame_050.png,5,12,7,5,5,0
+training_2_frame_051,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\training_2_frame_051.png,3,7,4,3,3,0
+training_2_frame_052,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\training_2_frame_052.png,4,11,6,5,4,0
+training_2_frame_053,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\training_2_frame_053.png,4,9,5,4,3,0
+training_2_frame_054,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\training_2_frame_054.png,3,8,4,4,3,0
+training_2_frame_055,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\training_2_frame_055.png,4,15,5,10,4,0
+training_2_frame_056,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\training_2_frame_056.png,5,12,7,3,5,0
+training_2_frame_057,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\training_2_frame_057.png,5,14,8,6,5,0
+training_2_frame_058,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\training_2_frame_058.png,3,10,6,3,4,0
+training_2_frame_059,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\training_2_frame_059.png,2,6,4,3,2,0
+training_2_frame_060,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\training_2_frame_060.png,4,11,6,5,4,0
+training_2_frame_061,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\training_2_frame_061.png,3,7,5,2,3,0
+training_2_frame_062,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\training_2_frame_062.png,4,11,7,4,4,0
+training_2_frame_063,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\training_2_frame_063.png,4,17,6,9,4,0
+training_2_frame_064,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\training_2_frame_064.png,3,10,5,3,3,0
+training_2_frame_065,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\training_2_frame_065.png,6,17,10,6,6,0
+training_2_frame_066,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\training_2_frame_066.png,3,9,6,3,3,0
+training_2_frame_067,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\training_2_frame_067.png,4,12,7,5,4,0
+training_2_frame_068,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\training_2_frame_068.png,4,16,8,7,4,0
+training_2_frame_069,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\training_2_frame_069.png,4,13,7,6,4,0
+training_2_frame_070,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\training_2_frame_070.png,3,10,6,4,3,0
+training_2_frame_071,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\training_2_frame_071.png,5,15,9,6,5,0
+training_2_frame_072,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\training_2_frame_072.png,2,6,3,3,2,0
+training_2_frame_073,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\training_2_frame_073.png,4,12,7,5,4,0
+training_2_frame_074,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\training_2_frame_074.png,3,9,4,5,3,0
+training_2_frame_075,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\training_2_frame_075.png,4,9,5,4,4,0
+training_2_frame_076,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\training_2_frame_076.png,6,16,9,7,6,0
+training_2_frame_077,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\training_2_frame_077.png,3,9,6,3,3,0
+training_2_frame_078,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\training_2_frame_078.png,4,11,6,5,4,0
+training_2_frame_079,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\training_2_frame_079.png,4,11,6,5,4,0
+training_2_frame_080,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\training_2_frame_080.png,6,17,10,7,6,0
+training_2_frame_081,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\training_2_frame_081.png,3,9,6,4,3,0
+training_2_frame_082,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\training_2_frame_082.png,3,14,6,8,3,0
+training_2_frame_083,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\training_2_frame_083.png,5,15,8,7,5,0
+training_2_frame_084,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\training_2_frame_084.png,4,10,6,6,4,0
+training_2_frame_085,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\training_2_frame_085.png,6,17,10,7,6,0
+training_2_frame_086,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\training_2_frame_086.png,4,13,6,7,4,0
+training_2_frame_087,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\training_2_frame_087.png,8,32,14,10,10,0
+training_2_frame_088,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\training_2_frame_088.png,4,14,8,6,4,0
+training_2_frame_089,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\training_2_frame_089.png,3,10,7,3,4,0
+training_2_frame_090,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\training_2_frame_090.png,4,14,8,6,4,0
+training_2_frame_091,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\training_2_frame_091.png,4,13,7,4,4,0
+training_2_frame_092,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\training_2_frame_092.png,7,18,9,8,6,0
+training_2_frame_093,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\training_2_frame_093.png,4,13,7,6,4,0
+training_2_frame_094,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\training_2_frame_094.png,3,10,4,6,3,0
+training_2_frame_095,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\training_2_frame_095.png,1,5,2,7,1,0
+training_2_frame_096,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\training_2_frame_096.png,4,11,6,7,4,0
+training_2_frame_097,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\training_2_frame_097.png,5,20,10,10,6,0
+training_2_frame_098,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\training_2_frame_098.png,5,15,7,6,4,0
+training_2_frame_099,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\training_2_frame_099.png,4,15,6,11,4,0
+training_2_frame_100,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\training_2_frame_100.png,4,18,8,10,4,0
+training_2_frame_101,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\training_2_frame_101.png,3,9,5,4,3,0
+training_2_frame_102,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\training_2_frame_102.png,3,8,5,3,3,0
+training_2_frame_103,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\training_2_frame_103.png,5,13,6,7,5,0
+training_2_frame_104,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\training_2_frame_104.png,4,14,7,7,4,0
+training_2_frame_105,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\training_2_frame_105.png,3,9,5,4,3,0
+training_2_frame_106,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\training_2_frame_106.png,5,14,8,6,6,0
+training_2_frame_107,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\training_2_frame_107.png,2,7,3,5,2,0
+training_2_frame_108,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\training_2_frame_108.png,4,11,6,7,4,0
+training_2_frame_109,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\training_2_frame_109.png,5,13,8,5,5,0
+training_2_frame_110,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\training_2_frame_110.png,5,12,6,5,5,0
+training_2_frame_111,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\training_2_frame_111.png,3,10,5,4,3,0
+training_2_frame_112,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\training_2_frame_112.png,2,6,4,3,2,0
+training_2_frame_113,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\training_2_frame_113.png,4,10,5,5,4,0
+training_2_frame_114,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\training_2_frame_114.png,3,12,6,6,3,0
+training_2_frame_115,v6_ml_detection\sam_masks\prompted_mobile_sam_from_source_tifs\instances\training_2_frame_115.png,3,8,4,4,3,0

@@ -1,0 +1,76 @@
+{
+  "summary": {
+    "labels_path": "v6_ml_detection\\pseudo_labels\\labels_pseudo_mobile_sam_from_source_tifs_mask_aware.csv",
+    "manifest_path": "v6_ml_detection\\annotations\\image_manifest.csv",
+    "total_rows": 1528,
+    "valid_rows": 1528,
+    "error_count": 0,
+    "images_in_manifest": 311,
+    "images_with_labels": 311,
+    "images_without_labels": 0,
+    "class_counts": {
+      "mother_bud_pair": 869,
+      "early_bud_pair": 520,
+      "single_cell": 139
+    },
+    "split_counts": {
+      "train": 1062,
+      "test": 225,
+      "val": 241
+    },
+    "review_status_counts": {
+      "needs_review": 1528
+    },
+    "top_images_by_box_count": [
+      [
+        "Colorado+htb2-GFP_frame_009",
+        12
+      ],
+      [
+        "Colorado+htb2-GFP_frame_016",
+        12
+      ],
+      [
+        "Colorado+htb2-GFP_frame_014",
+        11
+      ],
+      [
+        "Colorado+htb2-GFP_frame_018",
+        11
+      ],
+      [
+        "85min_after_washout_frame_010",
+        10
+      ],
+      [
+        "Colorado+htb2-GFP_frame_000",
+        10
+      ],
+      [
+        "Colorado+htb2-GFP_frame_001",
+        10
+      ],
+      [
+        "Colorado+htb2-GFP_frame_002",
+        10
+      ],
+      [
+        "Colorado+htb2-GFP_frame_004",
+        10
+      ],
+      [
+        "Colorado+htb2-GFP_frame_007",
+        10
+      ],
+      [
+        "Colorado+htb2-GFP_frame_010",
+        10
+      ],
+      [
+        "Colorado+htb2-GFP_frame_012",
+        10
+      ]
+    ]
+  },
+  "errors": []
+}
